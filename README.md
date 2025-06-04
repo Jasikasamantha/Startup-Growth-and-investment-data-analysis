@@ -393,13 +393,13 @@ Total Startups → Count of Startup_Name
 
 # Project Insights Summary:
 
-i.Fintech and AI are top-funded and fast-growing industries.
+i. Fintech and AI are top-funded and fast-growing industries.
 
-ii.USA and India lead in startup counts and funding volumes.
+ii. USA and India lead in startup counts and funding volumes.
 
-iii.Startup formation peaked post-2015, reflecting digital transformation.
+iii. Startup formation peaked post-2015, reflecting digital transformation.
 
-iV.A positive relationship is observed between investment amount and valuation.
+iV. A positive relationship is observed between investment amount and valuation.
 
 
 
