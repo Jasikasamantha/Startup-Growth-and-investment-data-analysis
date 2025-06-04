@@ -120,8 +120,22 @@ Insights: Values close to +1 indicate strong positive correlation (investment in
 <img width="887" alt="Screenshot 2025-06-03 at 11 31 47 PM" src="https://github.com/user-attachments/assets/a9314e28-89ba-4339-bb86-eb51dad4b93b" />
 
 
+
 <img width="654" alt="Screenshot 2025-06-03 at 11 35 51 PM" src="https://github.com/user-attachments/assets/31803eb8-3043-489b-a51d-4b35a5a45a0e" />
 
 
 <img width="974" alt="Screenshot 2025-06-03 at 11 32 25 PM" src="https://github.com/user-attachments/assets/33ec66b0-3e60-4d31-bc4f-3a141bbeae78" />
+
+
+10.Total Investment and Average Growth by Industry
+
+
+<img width="679" alt="Screenshot 2025-06-03 at 11 40 32 PM" src="https://github.com/user-attachments/assets/8b40eeff-34b0-45b5-b24b-57dca9743d6c" />
+![SQL script 1 (8)](https://github.com/user-attachments/assets/f1b566cb-3db1-43f2-bba0-a3421ee4e6e2)
+
+
+![Screenshot 2025-06-03 at 11 40 04 PM](https://github.com/user-attachments/assets/e9cd5af5-b071-43b6-996e-7130c07d49be)
+
+
+
 
