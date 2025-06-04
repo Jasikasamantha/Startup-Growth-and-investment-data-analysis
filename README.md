@@ -27,7 +27,7 @@ Country
 
 Year_Founded
 
-Growth_Rate_Percent
+Growth_Rate
 
 # Architecture & Setup 
 Data Ingestion: CSV file uploaded to Azure Data Lake Storage Gen2.
