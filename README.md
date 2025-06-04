@@ -58,5 +58,14 @@ SQL Access: Connected using Serverless SQL Pool.
 
 <img width="413" alt="Screenshot 2025-06-03 at 10 40 49 PM" src="https://github.com/user-attachments/assets/52c340d6-b9bb-4ee8-a74b-304a17cb5e73" />
 
+3.Country-wise Startup Count
+<img width="498" alt="Screenshot 2025-06-03 at 10 50 05 PM" src="https://github.com/user-attachments/assets/b069ced3-7664-4713-9875-a203dff1d07c" />
+
+
+
+![SQL script 1 (4)](https://github.com/user-attachments/assets/616ea946-344e-44cf-868a-a177d2c4b189)
+
+
+<img width="424" alt="Screenshot 2025-06-03 at 10 50 45 PM" src="https://github.com/user-attachments/assets/a30cd7a7-0d53-48d7-a5ca-6b96f92a1865" />
 
 
