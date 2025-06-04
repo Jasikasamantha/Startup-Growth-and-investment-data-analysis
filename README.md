@@ -148,5 +148,18 @@ Insights: Values close to +1 indicate strong positive correlation (investment in
 
 <img width="603" alt="Screenshot 2025-06-03 at 11 45 53 PM" src="https://github.com/user-attachments/assets/6493e92e-4176-4524-98e1-285b65cfea44" />
 
+Insight: Shows which industries are receiving the most investment capital.
 
+12.Average Growth Rate by Country
+
+
+
+<img width="682" alt="Screenshot 2025-06-03 at 11 48 40 PM" src="https://github.com/user-attachments/assets/a9f09744-99a1-4a7a-bf07-8168c747c203" />
+
+
+![SQL script 1 (10)](https://github.com/user-attachments/assets/dd0601ae-ca23-4afa-83fc-73b4daab0771)
+
+
+
+<img width="771" alt="Screenshot 2025-06-03 at 11 49 08 PM" src="https://github.com/user-attachments/assets/c42c5920-fad5-4ed0-b6ab-29007ba59688" />
 
