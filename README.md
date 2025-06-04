@@ -88,5 +88,13 @@ Insights: Values close to +1 indicate strong positive correlation (investment in
 
 <img width="947" alt="Screenshot 2025-06-03 at 11 13 16 PM" src="https://github.com/user-attachments/assets/97731793-04fd-4077-b55d-8541b6ef9db5" />
 
+6.Top 10 Startups by Valuation
 
+<img width="640" alt="Screenshot 2025-06-03 at 11 17 48 PM" src="https://github.com/user-attachments/assets/99cd3638-5b46-48b6-84fa-fc021fbe4131" />
+
+
+<img width="694" alt="Screenshot 2025-06-03 at 11 18 26 PM" src="https://github.com/user-attachments/assets/ca6d8154-9b6c-4c4b-ad01-3df30dade91d" />
+
+
+![SQL script 1 (6)](https://github.com/user-attachments/assets/d5598d26-d7d7-4eaa-9d3b-0d74128c64ad)
 
