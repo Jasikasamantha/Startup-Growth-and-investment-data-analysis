@@ -76,4 +76,17 @@ SQL Access: Connected using Serverless SQL Pool.
 
 <img width="305" alt="Screenshot 2025-06-03 at 11 02 04 PM" src="https://github.com/user-attachments/assets/4a9d8a80-9051-416c-835d-092797a22bbe" />
 
+Insights: Values close to +1 indicate strong positive correlation (investment increases as valuation increases).
+
+5.Startups Founded After 2015 with Above Average Growth
+
+<img width="793" alt="Screenshot 2025-06-03 at 11 14 35 PM" src="https://github.com/user-attachments/assets/c4a9ab5e-0db4-4b80-9593-3178edfd7bdc" />
+
+
+![SQL script 1 (5)](https://github.com/user-attachments/assets/fbe92ab6-fe18-4aac-8c02-0409e0b2cbc2)
+
+
+<img width="947" alt="Screenshot 2025-06-03 at 11 13 16 PM" src="https://github.com/user-attachments/assets/97731793-04fd-4077-b55d-8541b6ef9db5" />
+
+
 
