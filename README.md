@@ -72,9 +72,9 @@ SQL Access: Connected using Serverless SQL Pool.
 <img width="654" alt="Screenshot 2025-06-03 at 11 00 54 PM" src="https://github.com/user-attachments/assets/6305a1dd-f120-4ee8-bf82-e92497b4de87" />
 
 
+<img width="768" alt="Screenshot 2025-06-04 at 12 07 18 AM" src="https://github.com/user-attachments/assets/f916a3d4-430e-4b74-84a9-294066eb8e3d" />
 
 
-<img width="305" alt="Screenshot 2025-06-03 at 11 02 04 PM" src="https://github.com/user-attachments/assets/4a9d8a80-9051-416c-835d-092797a22bbe" />
 
 Insights: Values close to +1 indicate strong positive correlation (investment increases as valuation increases).
 
@@ -162,4 +162,60 @@ Insight: Shows which industries are receiving the most investment capital.
 
 
 <img width="771" alt="Screenshot 2025-06-03 at 11 49 08 PM" src="https://github.com/user-attachments/assets/c42c5920-fad5-4ed0-b6ab-29007ba59688" />
+
+Insight: Identifies countries with the most promising average startup growth.
+
+
+13.Correlation-like Insight: High-Funding, High-Valuation Startups
+
+
+<img width="722" alt="Screenshot 2025-06-03 at 11 53 40 PM" src="https://github.com/user-attachments/assets/2c3bf46a-42bb-4eaf-b0d2-799de30c796e" />
+
+
+<img width="651" alt="Screenshot 2025-06-03 at 11 55 34 PM" src="https://github.com/user-attachments/assets/970bdc2a-d4e3-43eb-a251-981f48898566" />
+
+
+<img width="916" alt="Screenshot 2025-06-03 at 11 54 09 PM" src="https://github.com/user-attachments/assets/9f33dbf2-0535-49f6-92c9-52ea71fd570e" />
+
+
+Insight: Lists high-value startups with significant investment and rounds.
+
+14. Most Funded Startups by Country
+
+
+
+<img width="735" alt="Screenshot 2025-06-04 at 12 00 20 AM" src="https://github.com/user-attachments/assets/f990f01f-707f-4d29-a928-59c9608d61d7" />
+
+
+
+![SQL script 1 (12)](https://github.com/user-attachments/assets/d1a0252e-3288-4859-a3de-6771dad2bfe5)
+
+
+
+<img width="668" alt="Screenshot 2025-06-04 at 12 00 46 AM" src="https://github.com/user-attachments/assets/d63c528a-fd32-402b-a027-6b0c9d774d6c" />
+
+Insight: Shows which startups attracted the highest investment in each country.
+
+
+15.Yearly Trends in Startup Foundation
+
+
+
+<img width="724" alt="Screenshot 2025-06-04 at 12 04 37 AM" src="https://github.com/user-attachments/assets/e1026e7d-aed2-4418-a146-83606a9e5c3b" />
+
+![SQL script 1 (13)](https://github.com/user-attachments/assets/209f0bfa-ea3c-4466-ba5f-16f91593912d)
+
+
+
+
+<img width="797" alt="Screenshot 2025-06-04 at 12 04 52 AM" src="https://github.com/user-attachments/assets/5a2b843f-734e-402b-ab6b-cad92b51f267" />
+
+
+Insight: Displays startup formation trends over time.
+
+
+
+
+
+
 
