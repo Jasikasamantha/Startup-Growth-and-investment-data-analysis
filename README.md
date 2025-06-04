@@ -47,4 +47,13 @@ SQL Access: Connected using Serverless SQL Pool.
 ![SQL script 1 (2)](https://github.com/user-attachments/assets/43d123e7-87d6-49e1-8628-0897063c3877)
 <img width="458" alt="Screenshot 2025-06-03 at 10 36 57 PM" src="https://github.com/user-attachments/assets/66f9627a-635b-4604-a09d-720e3c8cd28b" />
 
+2.Average Growth Rate by Industry
+
+<img width="627" alt="Screenshot 2025-06-03 at 10 39 58 PM" src="https://github.com/user-attachments/assets/a7d887b5-e762-4c03-9081-840374b29e25" />
+
+![SQL script 1 (3)](https://github.com/user-attachments/assets/f535d027-d488-413b-adeb-10a2201a3933)
+
+<img width="413" alt="Screenshot 2025-06-03 at 10 40 49 PM" src="https://github.com/user-attachments/assets/52c340d6-b9bb-4ee8-a74b-304a17cb5e73" />
+
+
 
