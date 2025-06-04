@@ -41,10 +41,6 @@ SQL Access: Connected using Serverless SQL Pool.
 # Key SQL Queries & Insights
 
 1.Top 5 Most Funded Industries
+<img width="496" alt="Screenshot 2025-06-03 at 10 31 44 PM" src="https://github.com/user-attachments/assets/eacbaa89-3854-45a3-88d9-7aecc28413a7" />
 
-SELECT Industry, 
-       SUM(Investment_Amount_USD) AS Total_Investment
-FROM [StartupGrowthDB].[dbo].[startup_growth_investment_data]
-GROUP BY Industry
-ORDER BY Total_Investment DESC
-OFFSET 0 ROWS FETCH NEXT 5 ROWS ONLY;
+![SQL script 1 (2)](https://github.com/user-attachments/assets/43d123e7-87d6-49e1-8628-0897063c3877)
