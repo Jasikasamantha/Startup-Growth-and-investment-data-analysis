@@ -49,7 +49,8 @@ SQL Access: Connected using Serverless SQL Pool.
 
 2.Average Growth Rate by Industry
 
-<img width="627" alt="Screenshot 2025-06-03 at 10 39 58 PM" src="https://github.com/user-attachments/assets/a7d887b5-e762-4c03-9081-840374b29e25" />
+<img width="472" alt="Screenshot 2025-06-03 at 10 43 49 PM" src="https://github.com/user-attachments/assets/52b36bec-571b-4f56-841f-3c17e7f0945a" />
+
 
 ![SQL script 1 (3)](https://github.com/user-attachments/assets/f535d027-d488-413b-adeb-10a2201a3933)
 
