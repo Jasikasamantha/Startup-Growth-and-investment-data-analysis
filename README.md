@@ -268,6 +268,123 @@ Azure Synapse enabled seamless integration of big data with SQL analytics, offer
 
 
 
+# Power BI Project: Startup Investment and Growth Analytics
+
+Source: Azure Synapse SQL
+
+Table: startup_growth_investment_data
+
+Data Columns Used
+Startup_Name
+
+Industry
+
+Country
+
+Year_Founded
+
+Funding_Rounds
+
+Investment_Amount_USD
+
+Valuation_USD
+
+Number_of_Investors
+
+Growth_Rate
+
+Visualizations (No DAX)
+1. Top 10 Industries by Total Investment
+Visual: Bar Chart
+
+Axis: Industry
+
+Values: Investment_Amount_USD (Sum)
+
+Filter: Top 10 by value
+
+Insight: Reveals industries that have attracted the most capital. Typically, Fintech, AI, and HealthTech dominate.
+
+2. Average Growth Rate by Industry
+   
+Visual: Column Chart
+
+Axis: Industry
+
+Values: Growth_Rate (Average)
+
+Insight: Highlights industries with the best performance. For instance, CleanTech and AI may show higher average growth rates.
+
+3. Startup Count by Country
+
+Visual:  Pie Chart
+
+Legend: Country
+
+Values: Startup_Name (Count)
+
+Insight: Indicates where startup activity is highest. Typically, USA, India, and UK have the most startups.
+
+4. Startups Founded Over Time
+   
+Visual: Line Chart
+
+Axis: Year_Founded
+
+Values: Startup_Name (Count)
+
+Insight: Shows historical trends in startup formation. Peaks may occur around tech booms or funding availability.
+
+5. Valuation vs Investment Scatter Plot
+   
+Visual: Scatter Plot
+
+X-Axis: Investment_Amount_USD
+
+Y-Axis: Valuation_USD
+
+Details: Startup_Name
+
+Size: Funding_Rounds
+
+Insight: Identifies if higher investment correlates with higher valuation. Helps spot outliers.
+
+6. Top 10 Startups by Valuation
+   
+Visual: Table
+
+Columns: Startup_Name, Industry, Valuation_USD
+
+Sort by: Valuation_USD Descending
+
+Filter: Top 10
+
+Insight: Displays leading startups by valuation, useful for investors and trend analysis.
+
+
+7. Most Funded Startups by Country
+   
+Visual: Stacked Bar 
+
+Axis: Country
+
+Values: Investment_Amount_USD (Max or Sum)
+
+
+Insight: Shows which countries host the most highly funded startups.
+
+
+8. KPIs (Auto-Aggregated)
+    
+Use Cards to show:
+
+Total Investment → Sum of Investment_Amount_USD
+
+Average Growth Rate → Average of Growth_Rate
+
+Total Startups → Count of Startup_Name
+
+
 
 
 
