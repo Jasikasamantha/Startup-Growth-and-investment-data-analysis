@@ -98,3 +98,31 @@ Insights: Values close to +1 indicate strong positive correlation (investment in
 
 ![SQL script 1 (6)](https://github.com/user-attachments/assets/d5598d26-d7d7-4eaa-9d3b-0d74128c64ad)
 
+7.Average Number of Investors by Industry
+
+
+<img width="599" alt="Screenshot 2025-06-03 at 11 26 09 PM" src="https://github.com/user-attachments/assets/8fbb99b5-381b-4aa6-8d5b-18cf9d477023" />
+
+
+<img width="624" alt="Screenshot 2025-06-03 at 11 25 38 PM" src="https://github.com/user-attachments/assets/1ee60b23-bd44-4cdf-ac41-6d375032bb9f" />
+
+8.Top Performing Industry by Avg Growth Rate
+
+
+<img width="756" alt="Screenshot 2025-06-03 at 11 29 30 PM" src="https://github.com/user-attachments/assets/ce98f13b-a02b-4215-b52a-d98bb37c3e7b" />
+
+
+<img width="829" alt="Screenshot 2025-06-03 at 11 29 45 PM" src="https://github.com/user-attachments/assets/e072384d-28c5-48bb-b8e0-e4765a8581e0" />
+
+9.Investment to Valuation Ratio (Efficiency)
+
+
+<img width="887" alt="Screenshot 2025-06-03 at 11 31 47 PM" src="https://github.com/user-attachments/assets/a9314e28-89ba-4339-bb86-eb51dad4b93b" />
+
+
+![SQL script 1 (7)](https://github.com/user-attachments/assets/b4c621e5-1399-4157-919e-5e0662d6229d)
+
+
+
+<img width="974" alt="Screenshot 2025-06-03 at 11 32 25 PM" src="https://github.com/user-attachments/assets/33ec66b0-3e60-4d31-bc4f-3a141bbeae78" />
+
