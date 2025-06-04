@@ -38,3 +38,13 @@ Storage: Written back to a Lake Database and external table defined in Synapse S
 
 SQL Access: Connected using Serverless SQL Pool.
 
+# Key SQL Queries & Insights
+
+1.Top 5 Most Funded Industries
+
+SELECT Industry, 
+       SUM(Investment_Amount_USD) AS Total_Investment
+FROM [StartupGrowthDB].[dbo].[startup_growth_investment_data]
+GROUP BY Industry
+ORDER BY Total_Investment DESC
+OFFSET 0 ROWS FETCH NEXT 5 ROWS ONLY;
