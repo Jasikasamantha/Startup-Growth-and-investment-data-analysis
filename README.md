@@ -131,6 +131,8 @@ Insights: Values close to +1 indicate strong positive correlation (investment in
 
 
 <img width="679" alt="Screenshot 2025-06-03 at 11 40 32 PM" src="https://github.com/user-attachments/assets/8b40eeff-34b0-45b5-b24b-57dca9743d6c" />
+
+
 ![SQL script 1 (8)](https://github.com/user-attachments/assets/f1b566cb-3db1-43f2-bba0-a3421ee4e6e2)
 
 
