@@ -203,8 +203,9 @@ Insight: Shows which startups attracted the highest investment in each country.
 
 <img width="724" alt="Screenshot 2025-06-04 at 12 04 37 AM" src="https://github.com/user-attachments/assets/e1026e7d-aed2-4418-a146-83606a9e5c3b" />
 
-![SQL script 1 (13)](https://github.com/user-attachments/assets/209f0bfa-ea3c-4466-ba5f-16f91593912d)
 
+
+![SQL script 1 (14)](https://github.com/user-attachments/assets/6d64efee-865a-44ab-8c4e-60e46f9ae7ec)
 
 
 
