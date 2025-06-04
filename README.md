@@ -274,7 +274,7 @@ Source: Azure Synapse SQL
 
 Table: startup_growth_investment_data
 
-Data Columns Used
+Columns:
 Startup_Name
 
 Industry
@@ -293,7 +293,13 @@ Number_of_Investors
 
 Growth_Rate
 
-Visualizations (No DAX)
+# Visualizations:
+
+<img width="1076" alt="Screenshot 2025-06-04 at 11 52 10 AM" src="https://github.com/user-attachments/assets/c911e3fa-5169-4115-81ae-6d50069a7c0d" />
+
+
+
+
 1. Top 10 Industries by Total Investment
 Visual: Bar Chart
 
@@ -383,6 +389,17 @@ Total Investment → Sum of Investment_Amount_USD
 Average Growth Rate → Average of Growth_Rate
 
 Total Startups → Count of Startup_Name
+
+
+# Project Insights Summary:
+
+i.Fintech and AI are top-funded and fast-growing industries.
+
+ii.USA and India lead in startup counts and funding volumes.
+
+iii.Startup formation peaked post-2015, reflecting digital transformation.
+
+iV.A positive relationship is observed between investment amount and valuation.
 
 
 
