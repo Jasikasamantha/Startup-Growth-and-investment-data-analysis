@@ -162,11 +162,13 @@ The dataset is stored in CSV format in an Azure Data Lake container. Dataset is 
 
 ### Insight: Industries like Tech and Healthcare generally receive larger investments and achieve higher valuations, with multiple funding rounds indicating sustained investor interest.
 
+### Investment Efficiency Analysis
 
 
+<img width="914" alt="Screenshot 2025-06-09 at 11 52 29 AM" src="https://github.com/user-attachments/assets/a3256642-a6b2-4471-805b-120a941ce993" />
 
 
-
+### Insights: Top startups like Startup_229 and Startup_441 demonstrate high investment efficiency with valuation-to-investment ratios near 5, indicating they generate nearly five times the value for every dollar invested. This reflects strong financial performance and effective use of capital, making them standout examples of capital-efficient growth in the startup ecosystem.
 
 
 
