@@ -584,21 +584,44 @@ This project presents an end-to-end data analysis pipeline focused on startup gr
 
  ### 1. Startup Count by Country (Pie Chart)
    
-i. The USA (10.2%) and Australia (10.96%) lead in startup counts.
+- The USA (10.2%) and Australia (10.96%) lead in startup counts.
 
-ii. Other top countries include the UK, Brazil, and Singapore, each contributing around 10% of the total.
+- Other top countries include the UK, Brazil, and Singapore, each contributing around 10% of the total.
 
-iii. The startup ecosystem is fairly evenly distributed among the top countries, with no country overwhelmingly dominating.
+- The startup ecosystem is fairly evenly distributed among the top countries, with no country overwhelmingly dominating.
 
 
 ---
-2. Startups Founded Over Time (Line Chart)
+### 2. Startups Founded Over Time (Line Chart)
    
 - Startup formation peaked around the early 2000s and showed fluctuations in the following years.
 
 - There is a notable dip in recent years, potentially due to global economic slowdowns or market saturation.
 
 ---
+### 3. Total Startup, Investment, Growth Rate, Investors (KPI Cards)
+
+- Total Startups: 5,000 startups analyzed.
+
+- Total Investment: $12.28 Trillion in total investments.
+
+- Average Growth Rate: 102.09 – indicating strong performance in scaling and market expansion.
+
+- Number of Investors: 128,000+ unique investors engaged in startup funding.
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
 # Project Insights Summary:
 
 i. Fintech and AI are top-funded and fast-growing industries.
