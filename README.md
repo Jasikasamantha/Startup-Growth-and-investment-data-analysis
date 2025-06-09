@@ -188,6 +188,31 @@ The dataset is stored in CSV format in an Azure Data Lake container. Dataset is 
 
 <img width="988" alt="Screenshot 2025-06-09 at 12 08 02 PM" src="https://github.com/user-attachments/assets/8ee75a54-10e1-4c57-9281-abc01fa24909" />
 
+### Insights: Startups span diverse industries like Blockchain, SaaS, EdTech, and Fintech. EdTech startups (e.g., in Singapore and India) show exceptionally high growth rates (190.47 and 192.0). Investment and valuation figures vary widely, indicating diverse funding strategies. Countries like the UK, Singapore, and India feature prominently among high-growth startups. features_array successfully consolidates key numerical predictors for modeling growth.
+
+## Key Insights
+
+i. India, Singapore, and the UK lead in average startup growth, signaling strong ecosystems.
+
+ii. EdTech startups in India and Singapore show extremely high growth rates.
+
+iii. A strong positive correlation (~0.85) exists between investment amount and valuation.
+
+iv. Top 5 countries by startup count: USA, India, UK, Germany, and Canada.
+
+v. The valuation-to-investment ratio reveals which startups are most efficient in turning funds into value.
+
+# Conclusion: This analysis shows that startups grow faster when they get more investment, especially in industries like EdTech and SaaS. Some countries, like the USA, India, and Singapore, have many successful startups. Startups that use their funding well tend to have higher value. Overall, investing wisely helps startups grow and succeed.
+
+
+
+
+
+
+
+
+
+
 
 # Project Title: Startup Growth & Investment Analysis Using Azure Synapse SQL
 
