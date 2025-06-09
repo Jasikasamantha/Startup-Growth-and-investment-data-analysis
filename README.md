@@ -673,21 +673,13 @@ This project presents an end-to-end data analysis pipeline focused on startup gr
 - Empowers dynamic dashboard filtering, enabling country-specific insights in real-time.
 
 
---
+---
 
 
-## Project Insights Summary:
+## Conclusion
 
-i. Fintech and AI are top-funded and fast-growing industries.
+The dashboard highlights that while startups are globally distributed, investment, growth and success are concentrated in specific countries and industries. These insights can guide strategic decisions for investors, policy makers, and founders aiming to enter or scale in high-potential markets.
 
-ii. USA and India lead in startup counts and funding volumes.
-
-iii. Startup formation peaked post-2015, reflecting digital transformation.
-
-iV. A positive relationship is observed between investment amount and valuation.
-
-
-
-
+---
 
 
