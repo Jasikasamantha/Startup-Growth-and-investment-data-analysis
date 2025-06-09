@@ -123,10 +123,14 @@ The dataset is stored in CSV format in an Azure Data Lake container. Dataset is 
 ### Insighs: The USA, UK, Singapore, Brazil, and Australia represent the largest shares of startups in the dataset. These countries are likely hubs for startup development, supported by robust infrastructure and investor networks.
 
 
+<img width="924" alt="Screenshot 2025-06-09 at 11 36 16 AM" src="https://github.com/user-attachments/assets/3bee1627-a160-44c1-bcc5-db92805b774b" />
+
+
+<img width="983" alt="Screenshot 2025-06-09 at 11 36 33 AM" src="https://github.com/user-attachments/assets/4bdc217a-8039-4652-af7c-f41ca15d296d" />
 
 
 
-
+### Insight: Valuation varies widely within and across countries. Countries like the UK, Singapore, Brazil, USA, and Australia exhibit higher median valuations and pronounced outliers, reflecting their dynamic startup ecosystems. These markets show strong potential for large-scale success and attract significant investor interest.
 
 
 
