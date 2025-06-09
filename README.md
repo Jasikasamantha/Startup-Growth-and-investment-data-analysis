@@ -112,7 +112,15 @@ The dataset is stored in CSV format in an Azure Data Lake container. Dataset is 
 ### Insight: Countries like Germany, USA, and Brazil show higher average startup growth rates, reflecting their thriving innovation ecosystems, government support, and growing market demand.
 
 
+<img width="873" alt="Screenshot 2025-06-09 at 11 33 53 AM" src="https://github.com/user-attachments/assets/61f54f2c-afdc-43ca-8486-31135741ad04" />
 
+
+
+
+<img width="855" alt="Screenshot 2025-06-09 at 11 34 11 AM" src="https://github.com/user-attachments/assets/a17f11c4-f65a-428f-80d1-f0dfd5f9788d" />
+
+
+### Insighs: The USA, UK, Singapore, Brazil, and Australia represent the largest shares of startups in the dataset. These countries are likely hubs for startup development, supported by robust infrastructure and investor networks.
 
 
 
