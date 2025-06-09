@@ -374,6 +374,7 @@ Insight: A Pearson correlation value close to +1 indicates a strong positive rel
 Insight:
 This highlights emerging startups that are both young and fast-growing, making them attractive targets for investors and partnerships.
 
+---
 
 6.Top 10 Startups by Valuation
 
