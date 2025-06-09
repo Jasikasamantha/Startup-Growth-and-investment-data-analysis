@@ -44,22 +44,6 @@ The dataset includes the following fields:
 ---
 
 
-## 🧪 Data Cleaning & Transformation
-
-```python
-from pyspark.sql.functions import col
-
-df = df.withColumnRenamed("Investment Amount (USD)", "Investment_Amount_USD") \
-       .withColumnRenamed("Valuation (USD)", "Valuation_USD") \
-       .withColumnRenamed("Growth Rate (%)", "Growth_Rate") \
-       .withColumnRenamed("Startup Name", "Startup_Name") \
-       .withColumnRenamed("Funding Rounds", "Funding_Rounds") \
-       .withColumnRenamed("Number of Investors", "Number_of_Investors") \
-       .withColumnRenamed("Year Founded", "Year_Founded")
-
-df_clean = df.dropna(subset=["Investment_Amount_USD", "Valuation_USD", "Growth_Rate"])
-df_clean = df_clean.filter(col("Investment_Amount_USD") > 0)
-
 
 
 
