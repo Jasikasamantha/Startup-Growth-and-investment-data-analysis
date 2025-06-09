@@ -309,7 +309,7 @@ SQL Access: Connected using Serverless SQL Pool.
 
 ## Key SQL Queries & Insights
 
-1. Top 5 Most Funded Industries
+### 1. Top 5 Most Funded Industries
 
 <img width="496" alt="Screenshot 2025-06-03 at 10 31 44 PM" src="https://github.com/user-attachments/assets/eacbaa89-3854-45a3-88d9-7aecc28413a7" />
 
@@ -320,7 +320,7 @@ Insight: These industries received the highest total investments, highlighting s
 
 ---
 
-2. Average Growth Rate by Industry
+### 2. Average Growth Rate by Industry
 
 
 <img width="519" alt="Screenshot 2025-06-03 at 10 47 09 PM" src="https://github.com/user-attachments/assets/2aec21e1-c06b-49b2-b4bb-5e3d9f878b25" />
@@ -335,7 +335,7 @@ Insight: Industries with the highest average growth rate indicate strong busines
 
 ---
 
-3. Country-wise Startup Count
+### 3. Country-wise Startup Count
 
 <img width="498" alt="Screenshot 2025-06-03 at 10 50 05 PM" src="https://github.com/user-attachments/assets/b069ced3-7664-4713-9875-a203dff1d07c" />
 
@@ -347,7 +347,7 @@ Insight: Countries with the highest number of startups reflect vibrant entrepren
 
 ---
 
-4. A single value: the Pearson correlation coefficient.
+### 4. A single value: the Pearson correlation coefficient.
 
 
 <img width="654" alt="Screenshot 2025-06-03 at 11 00 54 PM" src="https://github.com/user-attachments/assets/6305a1dd-f120-4ee8-bf82-e92497b4de87" />
@@ -361,7 +361,7 @@ Insight: A Pearson correlation value close to +1 indicates a strong positive rel
 
 ---
 
-5. Startups Founded After 2015 with Above Average Growth
+### 5. Startups Founded After 2015 with Above Average Growth
 
 <img width="793" alt="Screenshot 2025-06-03 at 11 14 35 PM" src="https://github.com/user-attachments/assets/c4a9ab5e-0db4-4b80-9593-3178edfd7bdc" />
 
@@ -376,7 +376,7 @@ This highlights emerging startups that are both young and fast-growing, making t
 
 ---
 
-6.Top 10 Startups by Valuation
+### 6.Top 10 Startups by Valuation
 
 <img width="640" alt="Screenshot 2025-06-03 at 11 17 48 PM" src="https://github.com/user-attachments/assets/99cd3638-5b46-48b6-84fa-fc021fbe4131" />
 
@@ -391,7 +391,7 @@ These are the most valuable startups in the dataset, often industry leaders or h
 
 ---
 
-7. Average Number of Investors by Industry
+### 7. Average Number of Investors by Industry
 
 
 <img width="599" alt="Screenshot 2025-06-03 at 11 26 09 PM" src="https://github.com/user-attachments/assets/8fbb99b5-381b-4aa6-8d5b-18cf9d477023" />
@@ -404,7 +404,7 @@ Industries with a higher average number of investors tend to attract greater mar
 
 ---
 
-8. Top Performing Industry by Avg Growth Rate
+### 8. Top Performing Industry by Avg Growth Rate
 
 
 <img width="756" alt="Screenshot 2025-06-03 at 11 29 30 PM" src="https://github.com/user-attachments/assets/ce98f13b-a02b-4215-b52a-d98bb37c3e7b" />
@@ -417,7 +417,7 @@ This identifies the most rapidly expanding industry, helping stakeholders focus 
 
 ---
 
-9. Investment to Valuation Ratio (Efficiency)
+### 9. Investment to Valuation Ratio (Efficiency)
 
 
 <img width="887" alt="Screenshot 2025-06-03 at 11 31 47 PM" src="https://github.com/user-attachments/assets/a9314e28-89ba-4339-bb86-eb51dad4b93b" />
@@ -436,7 +436,7 @@ This ratio shows how efficiently startups turn investment into valuation. A high
 ---
 
 
-10. Total Investment and Average Growth by Industry
+### 10. Total Investment and Average Growth by Industry
 
 
 <img width="679" alt="Screenshot 2025-06-03 at 11 40 32 PM" src="https://github.com/user-attachments/assets/8b40eeff-34b0-45b5-b24b-57dca9743d6c" />
@@ -453,7 +453,7 @@ Industries with high total investment and strong average growth are seen as high
 ---
 
 
-11. Top 10 Industries by Total Investment
+### 11. Top 10 Industries by Total Investment
 
 <img width="668" alt="Screenshot 2025-06-03 at 11 45 32 PM" src="https://github.com/user-attachments/assets/c2fee836-d152-44f4-9ca4-9ed93f6100a0" />
 
@@ -468,7 +468,7 @@ Reveals which industries are receiving the most funding, indicating investor con
 
 ---
 
-12. Average Growth Rate by Country
+### 12. Average Growth Rate by Country
 
 
 
@@ -487,7 +487,7 @@ Highlights which countries foster the fastest-growing startups, useful for inves
 
 ---
 
-13. Correlation-like Insight: High-Funding, High-Valuation Startups
+### 13. Correlation-like Insight: High-Funding, High-Valuation Startups
 
 
 <img width="722" alt="Screenshot 2025-06-03 at 11 53 40 PM" src="https://github.com/user-attachments/assets/2c3bf46a-42bb-4eaf-b0d2-799de30c796e" />
@@ -504,7 +504,7 @@ Identifies premium startups with strong backing and market valuation, suggesting
 
 ---
 
-14. Most Funded Startups by Country
+### 14. Most Funded Startups by Country
 
 
 
@@ -523,7 +523,7 @@ Reveals leading startups in each country based on investment, providing a snapsh
 
 ---
 
-15. Yearly Trends in Startup Foundation
+### 15. Yearly Trends in Startup Foundation
 
 
 
