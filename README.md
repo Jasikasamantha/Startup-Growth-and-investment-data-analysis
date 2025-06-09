@@ -170,7 +170,7 @@ The dataset is stored in CSV format in an Azure Data Lake container. Dataset is 
 
 ### Insights: Top startups like Startup_229 and Startup_441 demonstrate high investment efficiency with valuation-to-investment ratios near 5, indicating they generate nearly five times the value for every dollar invested. This reflects strong financial performance and effective use of capital, making them standout examples of capital-efficient growth in the startup ecosystem.
 
-## Choropleth: Average Growth Rate by Country
+## Geospatial Analysis
 
 
 <img width="781" alt="Screenshot 2025-06-09 at 11 58 07 AM" src="https://github.com/user-attachments/assets/408c8844-de36-47a4-9d74-145bb5e45401" />
