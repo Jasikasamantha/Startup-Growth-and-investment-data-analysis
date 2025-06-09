@@ -152,7 +152,8 @@ The dataset is stored in CSV format in an Azure Data Lake container. Dataset is 
 ### Insight: Recent startups mostly have lower valuations, with a small number showing high valuation outliers. This indicates a challenging but promising environment for newcomers.
 
 
-<img width="957" alt="Screenshot 2025-06-09 at 11 44 55 AM" src="https://github.com/user-attachments/assets/287da83e-f5c9-48d3-897d-57deabd30bf9" />
+<img width="925" alt="Screenshot 2025-06-09 at 11 48 27 AM" src="https://github.com/user-attachments/assets/2aef8b67-8c10-4a05-937f-fc11f7d5c44c" />
+
 
 <img width="1064" alt="Screenshot 2025-06-09 at 11 45 25 AM" src="https://github.com/user-attachments/assets/1374d481-df2a-45fa-a03f-f81a90f806bd" />
 
