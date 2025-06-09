@@ -74,7 +74,7 @@ The dataset is stored in CSV format in an Azure Data Lake container. Dataset is 
 
 ## Exploratory Data Analysis
 
-1. Top 5 Funded Industries
+### 1. Top 5 Funded Industries
    
 <img width="890" alt="Screenshot 2025-06-09 at 11 01 37 AM" src="https://github.com/user-attachments/assets/e933bfd7-036d-4a85-b18c-e9253a12f4a1" />
 
@@ -82,7 +82,7 @@ The dataset is stored in CSV format in an Azure Data Lake container. Dataset is 
 
 ---
 
-2. Country-wise Startup Count
+### 2. Country-wise Startup Count
    
 <img width="785" alt="Screenshot 2025-06-09 at 11 04 03 AM" src="https://github.com/user-attachments/assets/b602dc42-5fcf-4347-bff7-8b8de462b05f" />
 
