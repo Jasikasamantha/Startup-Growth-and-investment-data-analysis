@@ -103,7 +103,13 @@ The dataset is stored in CSV format in an Azure Data Lake container. Dataset is 
 ### Insight: A strong positive correlation is observed — as investment increases, startup valuation tends to rise. This aligns with investor expectations that larger funding rounds typically back higher potential ventures.
 
 
+<img width="959" alt="Screenshot 2025-06-09 at 11 28 22 AM" src="https://github.com/user-attachments/assets/a9cd2a67-4feb-45e5-83a0-c8d20fdb2b7e" />
 
+
+<img width="1003" alt="Screenshot 2025-06-09 at 11 29 59 AM" src="https://github.com/user-attachments/assets/ad146c32-3969-40ee-afc1-cff9b97c2dbf" />
+
+
+### Insight: Countries like Germany, USA, and Brazil show higher average startup growth rates, reflecting their thriving innovation ecosystems, government support, and growing market demand.
 
 
 
