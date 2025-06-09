@@ -577,7 +577,7 @@ This project presents an end-to-end data analysis pipeline focused on startup gr
 
 # Visualizations:
 
-<img width="1076" alt="Screenshot 2025-06-04 at 11 52 10 AM" src="https://github.com/user-attachments/assets/c911e3fa-5169-4115-81ae-6d50069a7c0d" />
+<img width="1082" alt="Screenshot 2025-06-09 at 3 49 53 PM" src="https://github.com/user-attachments/assets/8bfdaf71-8f22-4dc4-b39c-ac57b89e4e0c" />
 
 
 ---
