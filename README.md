@@ -383,7 +383,9 @@ This highlights emerging startups that are both young and fast-growing, making t
 
 Insight:
 These are the most valuable startups in the dataset, often industry leaders or heavily backed by investors. Useful for spotting unicorns or market disruptors.
+
 ---
+
 7. Average Number of Investors by Industry
 
 
@@ -394,6 +396,8 @@ These are the most valuable startups in the dataset, often industry leaders or h
 
 Insight:
 Industries with a higher average number of investors tend to attract greater market attention and confidence, indicating strong funding interest and potential for innovation.
+
+---
 
 8. Top Performing Industry by Avg Growth Rate
 
@@ -406,8 +410,9 @@ Industries with a higher average number of investors tend to attract greater mar
 Insight:
 This identifies the most rapidly expanding industry, helping stakeholders focus on high-growth sectors for strategic investments or business development.
 
+---
 
-9.Investment to Valuation Ratio (Efficiency)
+9. Investment to Valuation Ratio (Efficiency)
 
 
 <img width="887" alt="Screenshot 2025-06-03 at 11 31 47 PM" src="https://github.com/user-attachments/assets/a9314e28-89ba-4339-bb86-eb51dad4b93b" />
@@ -422,7 +427,11 @@ This identifies the most rapidly expanding industry, helping stakeholders focus 
 Insight:
 This ratio shows how efficiently startups turn investment into valuation. A higher ratio indicates better capital efficiency, making these startups more attractive to investors.
 
-10.Total Investment and Average Growth by Industry
+
+---
+
+
+10. Total Investment and Average Growth by Industry
 
 
 <img width="679" alt="Screenshot 2025-06-03 at 11 40 32 PM" src="https://github.com/user-attachments/assets/8b40eeff-34b0-45b5-b24b-57dca9743d6c" />
@@ -436,8 +445,10 @@ This ratio shows how efficiently startups turn investment into valuation. A high
 Insight:
 Industries with high total investment and strong average growth are seen as high-potential sectors. This helps identify where resources and funding are concentrated.
 
+---
 
-11.11.Top 10 Industries by Total Investment
+
+11. Top 10 Industries by Total Investment
 
 <img width="668" alt="Screenshot 2025-06-03 at 11 45 32 PM" src="https://github.com/user-attachments/assets/c2fee836-d152-44f4-9ca4-9ed93f6100a0" />
 
@@ -450,7 +461,9 @@ Industries with high total investment and strong average growth are seen as high
 Insight:
 Reveals which industries are receiving the most funding, indicating investor confidence and sector popularity.
 
-12.Average Growth Rate by Country
+---
+
+12. Average Growth Rate by Country
 
 
 
@@ -466,7 +479,10 @@ Reveals which industries are receiving the most funding, indicating investor con
 Insight:
 Highlights which countries foster the fastest-growing startups, useful for investors targeting high-growth regions.
 
-13.Correlation-like Insight: High-Funding, High-Valuation Startups
+
+---
+
+13. Correlation-like Insight: High-Funding, High-Valuation Startups
 
 
 <img width="722" alt="Screenshot 2025-06-03 at 11 53 40 PM" src="https://github.com/user-attachments/assets/2c3bf46a-42bb-4eaf-b0d2-799de30c796e" />
@@ -480,6 +496,8 @@ Highlights which countries foster the fastest-growing startups, useful for inves
 
 Insight:
 Identifies premium startups with strong backing and market valuation, suggesting high confidence from investors.
+
+---
 
 14. Most Funded Startups by Country
 
@@ -498,8 +516,9 @@ Identifies premium startups with strong backing and market valuation, suggesting
 Insight:
 Reveals leading startups in each country based on investment, providing a snapshot of regional startup champions.
 
+---
 
-15.Yearly Trends in Startup Foundation
+15. Yearly Trends in Startup Foundation
 
 
 
@@ -517,26 +536,33 @@ Reveals leading startups in each country based on investment, providing a snapsh
 Insight:
 Shows how startup formation has evolved over time, useful for analyzing growth momentum and economic influence.
 
-# Conclusion:
-This project successfully leveraged Azure Synapse SQL to perform a comprehensive analysis of startup growth and investment data. Key business and investment insights were derived from querying a structured dataset stored in Azure, enabling data-driven decisions for investors, incubators, and stakeholders.
+---
 
-# Key Achievements:
 
-1. Identified Top-Funded Industries: Technology and FinTech lead in total investment, indicating investor confidence and innovation trends.
+## Key Achievements:
 
-2. Country-Level Insights: The U.S., India, and the U.K. dominate in startup count and valuation, while emerging markets show promising growth rates.
+i. Identified Top-Funded Industries: Technology and FinTech lead in total investment, indicating investor confidence and innovation trends.
 
-3. Correlation Analysis: A strong positive correlation exists between investment amount and valuation, confirming that higher investment often translates into greater market value.
+ii. Country-Level Insights: The U.S., India, and the U.K. dominate in startup count and valuation, while emerging markets show promising growth rates.
 
-4. High-Growth Startups: Startups founded after 2015 with above-average growth were filtered, offering a curated list for potential investors.
+iii. Correlation Analysis: A strong positive correlation exists between investment amount and valuation, confirming that higher investment often translates into greater market value.
 
-5. Startup Formation Trends: Startup activity peaked in recent years, signaling a dynamic and growing ecosystem.
+iv. High-Growth Startups: Startups founded after 2015 with above-average growth were filtered, offering a curated list for potential investors.
 
-# Platform Benefit:
+v. Startup Formation Trends: Startup activity peaked in recent years, signaling a dynamic and growing ecosystem.
+
+---
+## Platform Benefit:
 
 Azure Synapse enabled seamless integration of big data with SQL analytics, offering scalable performance and real-time insights without moving data out of the lakehouse.
 
 
+---
+
+## Conclusion:
+This project successfully leveraged Azure Synapse SQL to perform a comprehensive analysis of startup growth and investment data. Key business and investment insights were derived from querying a structured dataset stored in Azure, enabling data-driven decisions for investors, incubators, and stakeholders.
+
+---
 
 # Power BI Project: Startup Investment and Growth Analytics
 
