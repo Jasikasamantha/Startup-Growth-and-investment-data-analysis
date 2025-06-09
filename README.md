@@ -183,6 +183,12 @@ The dataset is stored in CSV format in an Azure Data Lake container. Dataset is 
 ### insights: This map shows how fast startups grow in each country. Darker shades mean higher growth. Countries like India, Singapore, and the UK stand out with strong startup growth, while lighter areas indicate slower growth. It gives a quick view of where startup ecosystems are thriving globally.
 
 
+## ML-Based Growth Rate Prediction (PySpark MLlib)
+
+
+<img width="988" alt="Screenshot 2025-06-09 at 12 08 02 PM" src="https://github.com/user-attachments/assets/8ee75a54-10e1-4c57-9281-abc01fa24909" />
+
+
 # Project Title: Startup Growth & Investment Analysis Using Azure Synapse SQL
 
 # Dataset
