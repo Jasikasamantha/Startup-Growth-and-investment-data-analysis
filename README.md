@@ -268,7 +268,7 @@ This analysis shows that startups grow faster when they get more investment, esp
 
 
 
-
+---
 
 
 
@@ -383,8 +383,8 @@ This highlights emerging startups that are both young and fast-growing, making t
 
 Insight:
 These are the most valuable startups in the dataset, often industry leaders or heavily backed by investors. Useful for spotting unicorns or market disruptors.
-
-7.Average Number of Investors by Industry
+---
+7. Average Number of Investors by Industry
 
 
 <img width="599" alt="Screenshot 2025-06-03 at 11 26 09 PM" src="https://github.com/user-attachments/assets/8fbb99b5-381b-4aa6-8d5b-18cf9d477023" />
@@ -395,7 +395,7 @@ These are the most valuable startups in the dataset, often industry leaders or h
 Insight:
 Industries with a higher average number of investors tend to attract greater market attention and confidence, indicating strong funding interest and potential for innovation.
 
-8.Top Performing Industry by Avg Growth Rate
+8. Top Performing Industry by Avg Growth Rate
 
 
 <img width="756" alt="Screenshot 2025-06-03 at 11 29 30 PM" src="https://github.com/user-attachments/assets/ce98f13b-a02b-4215-b52a-d98bb37c3e7b" />
