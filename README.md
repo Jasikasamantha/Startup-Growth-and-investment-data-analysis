@@ -330,6 +330,7 @@ Insight: These industries received the highest total investments, highlighting s
 Insight: Industries with the highest average growth rate indicate strong business expansion and scalability potential, making them attractive for long-term investment.
 
 ---
+
 3. Country-wise Startup Count
 
 <img width="498" alt="Screenshot 2025-06-03 at 10 50 05 PM" src="https://github.com/user-attachments/assets/b069ced3-7664-4713-9875-a203dff1d07c" />
@@ -338,10 +339,11 @@ Insight: Industries with the highest average growth rate indicate strong busines
 
 <img width="424" alt="Screenshot 2025-06-03 at 10 50 45 PM" src="https://github.com/user-attachments/assets/a30cd7a7-0d53-48d7-a5ca-6b96f92a1865" />
 
-Insight:
-Countries with the highest number of startups reflect vibrant entrepreneurial ecosystems, robust support infrastructure, and investor interest in innovation.
+Insight: Countries with the highest number of startups reflect vibrant entrepreneurial ecosystems, robust support infrastructure, and investor interest in innovation.
 
-4.A single value: the Pearson correlation coefficient.
+---
+
+4. A single value: the Pearson correlation coefficient.
 
 
 <img width="654" alt="Screenshot 2025-06-03 at 11 00 54 PM" src="https://github.com/user-attachments/assets/6305a1dd-f120-4ee8-bf82-e92497b4de87" />
@@ -351,10 +353,11 @@ Countries with the highest number of startups reflect vibrant entrepreneurial ec
 
 
 
-Insight:
-A Pearson correlation value close to +1 indicates a strong positive relationship — meaning higher investments are generally associated with higher startup valuations.
+Insight: A Pearson correlation value close to +1 indicates a strong positive relationship — meaning higher investments are generally associated with higher startup valuations.
 
-5.Startups Founded After 2015 with Above Average Growth
+---
+
+5. Startups Founded After 2015 with Above Average Growth
 
 <img width="793" alt="Screenshot 2025-06-03 at 11 14 35 PM" src="https://github.com/user-attachments/assets/c4a9ab5e-0db4-4b80-9593-3178edfd7bdc" />
 
