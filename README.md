@@ -78,8 +78,7 @@ The dataset is stored in CSV format in an Azure Data Lake container. Dataset is 
    
 <img width="890" alt="Screenshot 2025-06-09 at 11 01 37 AM" src="https://github.com/user-attachments/assets/e933bfd7-036d-4a85-b18c-e9253a12f4a1" />
 
- ### Insight: 
- These industries received the most cumulative funding, indicating high investor confidence.
+ Insight: These industries received the most cumulative funding, indicating high investor confidence.
 
 ---
 
