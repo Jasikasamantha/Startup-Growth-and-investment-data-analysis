@@ -142,6 +142,30 @@ The dataset is stored in CSV format in an Azure Data Lake container. Dataset is 
 ### Insight: Industries like Tech and Healthcare tend to have higher median and spread of funding rounds, indicating stronger investor interest and repeated fundraising cycles compared to other sectors.
 
 
+<img width="929" alt="Screenshot 2025-06-09 at 11 42 58 AM" src="https://github.com/user-attachments/assets/fecbaf28-c10f-4107-8417-0793270bbe60" />
+
+
+
+<img width="982" alt="Screenshot 2025-06-09 at 11 43 15 AM" src="https://github.com/user-attachments/assets/2b49d0af-ff6e-44dc-b7fc-95ecabfa22a9" />
+
+
+### Insight: Recent startups mostly have lower valuations, with a small number showing high valuation outliers. This indicates a challenging but promising environment for newcomers.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
