@@ -202,7 +202,7 @@ iv. Top 5 countries by startup count: USA, India, UK, Germany, and Canada.
 
 v. The valuation-to-investment ratio reveals which startups are most efficient in turning funds into value.
 
-# Conclusion: This analysis shows that startups grow faster when they get more investment, especially in industries like EdTech and SaaS. Some countries, like the USA, India, and Singapore, have many successful startups. Startups that use their funding well tend to have higher value. Overall, investing wisely helps startups grow and succeed.
+## Conclusion: This analysis shows that startups grow faster when they get more investment, especially in industries like EdTech and SaaS. Some countries, like the USA, India, and Singapore, have many successful startups. Startups that use their funding well tend to have higher value. Overall, investing wisely helps startups grow and succeed.
 
 
 
