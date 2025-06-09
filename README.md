@@ -167,6 +167,8 @@ The dataset is stored in CSV format in an Azure Data Lake container. Dataset is 
 
 ### Insight: Industries like Tech and Healthcare generally receive larger investments and achieve higher valuations, with multiple funding rounds indicating sustained investor interest.
 
+
+---
 ## Investment Efficiency Analysis
 
 
@@ -174,6 +176,8 @@ The dataset is stored in CSV format in an Azure Data Lake container. Dataset is 
 
 
 ### Insights: Top startups like Startup_229 and Startup_441 demonstrate high investment efficiency with valuation-to-investment ratios near 5, indicating they generate nearly five times the value for every dollar invested. This reflects strong financial performance and effective use of capital, making them standout examples of capital-efficient growth in the startup ecosystem.
+
+---
 
 ## Geospatial Analysis 
 
@@ -187,6 +191,7 @@ The dataset is stored in CSV format in an Azure Data Lake container. Dataset is 
 
 ### insights: This map shows how fast startups grow in each country. Darker shades mean higher growth. Countries like India, Singapore, and the UK stand out with strong startup growth, while lighter areas indicate slower growth. It gives a quick view of where startup ecosystems are thriving globally.
 
+---
 
 ## ML-Based Growth Rate Prediction (PySpark MLlib)
 
@@ -195,6 +200,7 @@ The dataset is stored in CSV format in an Azure Data Lake container. Dataset is 
 
 ### Insights: Startups span diverse industries like Blockchain, SaaS, EdTech, and Fintech. EdTech startups (e.g., in Singapore and India) show exceptionally high growth rates (190.47 and 192.0). Investment and valuation figures vary widely, indicating diverse funding strategies. Countries like the UK, Singapore, and India feature prominently among high-growth startups. features_array successfully consolidates key numerical predictors for modeling growth.
 
+---
 ## Key Insights
 
 i. India, Singapore, and the UK lead in average startup growth, signaling strong ecosystems.
@@ -207,6 +213,7 @@ iv. Top 5 countries by startup count: USA, India, UK, Germany, and Canada.
 
 v. The valuation-to-investment ratio reveals which startups are most efficient in turning funds into value.
 
+---
 ## Conclusion: This analysis shows that startups grow faster when they get more investment, especially in industries like EdTech and SaaS. Some countries, like the USA, India, and Singapore, have many successful startups. Startups that use their funding well tend to have higher value. Overall, investing wisely helps startups grow and succeed.
 
 
