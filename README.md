@@ -573,106 +573,32 @@ This project successfully leveraged Azure Synapse SQL to perform a comprehensive
 
 This project presents an end-to-end data analysis pipeline focused on startup growth and investment trends. The final step in the pipeline is creating a dynamic Power BI dashboard that visualizes insights extracted from the transformed and aggregated data prepared in Azure Databricks and Azure Synapse SQL.
 
-
+---
 
 # Visualizations:
 
 <img width="1076" alt="Screenshot 2025-06-04 at 11 52 10 AM" src="https://github.com/user-attachments/assets/c911e3fa-5169-4115-81ae-6d50069a7c0d" />
 
 
+---
 
-
-1. Top 10 Industries by Total Investment
-Visual: Bar Chart
-
-Axis: Industry
-
-Values: Investment_Amount_USD (Sum)
-
-Filter: Top 10 by value
-
-Insight: Reveals industries that have attracted the most capital. Typically, Fintech, AI, and HealthTech dominate.
-
-2. Average Growth Rate by Industry
+ ### 1. Startup Count by Country (Pie Chart)
    
-Visual: Column Chart
+i. The USA (10.2%) and Australia (10.96%) lead in startup counts.
 
-Axis: Industry
+ii. Other top countries include the UK, Brazil, and Singapore, each contributing around 10% of the total.
 
-Values: Growth_Rate (Average)
+iii. The startup ecosystem is fairly evenly distributed among the top countries, with no country overwhelmingly dominating.
 
-Insight: Highlights industries with the best performance. For instance, CleanTech and AI may show higher average growth rates.
 
-3. Startup Count by Country
-
-Visual:  Pie Chart
-
-Legend: Country
-
-Values: Startup_Name (Count)
-
-Insight: Indicates where startup activity is highest. Typically, USA, India, and UK have the most startups.
-
-4. Startups Founded Over Time
+---
+2. Startups Founded Over Time (Line Chart)
    
-Visual: Line Chart
+- Startup formation peaked around the early 2000s and showed fluctuations in the following years.
 
-Axis: Year_Founded
+- There is a notable dip in recent years, potentially due to global economic slowdowns or market saturation.
 
-Values: Startup_Name (Count)
-
-Insight: Shows historical trends in startup formation. Peaks may occur around tech booms or funding availability.
-
-5. Valuation vs Investment Scatter Plot
-   
-Visual: Scatter Plot
-
-X-Axis: Investment_Amount_USD
-
-Y-Axis: Valuation_USD
-
-Details: Startup_Name
-
-Size: Funding_Rounds
-
-Insight: Identifies if higher investment correlates with higher valuation. Helps spot outliers.
-
-6. Top 10 Startups by Valuation
-   
-Visual: Table
-
-Columns: Startup_Name, Industry, Valuation_USD
-
-Sort by: Valuation_USD Descending
-
-Filter: Top 10
-
-Insight: Displays leading startups by valuation, useful for investors and trend analysis.
-
-
-7. Most Funded Startups by Country
-   
-Visual: Stacked Bar 
-
-Axis: Country
-
-Values: Investment_Amount_USD (Max or Sum)
-
-
-Insight: Shows which countries host the most highly funded startups.
-
-
-8. KPIs (Auto-Aggregated)
-    
-Use Cards to show:
-
-Total Investment → Sum of Investment_Amount_USD
-
-Average Growth Rate → Average of Growth_Rate
-
-Total Startups → Count of Startup_Name
-
-
+---
 # Project Insights Summary:
 
 i. Fintech and AI are top-funded and fast-growing industries.
