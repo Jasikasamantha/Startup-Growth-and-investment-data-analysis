@@ -1,5 +1,5 @@
 # Startup Growth & Investment Analysis Using Azure Databricks, Synapse SQL & Power BI
----
+
 #  Startup Growth & Investment Data Analysis (Azure + PySpark)
 
 This project analyzes a global startup dataset using **Azure Databricks** and **PySpark** to uncover trends in funding, valuation, investor activity, and growth rate. It also includes data visualizations and an optional ML-based prediction module.
