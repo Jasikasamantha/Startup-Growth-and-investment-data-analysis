@@ -571,28 +571,9 @@ This project successfully leveraged Azure Synapse SQL to perform a comprehensive
 
 # Startup Growth & Investment Analysis using Azure & Power BI
 
-Source: Azure Synapse SQL
+This project presents an end-to-end data analysis pipeline focused on startup growth and investment trends. The final step in the pipeline is creating a dynamic Power BI dashboard that visualizes insights extracted from the transformed and aggregated data prepared in Azure Databricks and Azure Synapse SQL.
 
-Table: startup_growth_investment_data
 
-Columns:
-Startup_Name
-
-Industry
-
-Country
-
-Year_Founded
-
-Funding_Rounds
-
-Investment_Amount_USD
-
-Valuation_USD
-
-Number_of_Investors
-
-Growth_Rate
 
 # Visualizations:
 
