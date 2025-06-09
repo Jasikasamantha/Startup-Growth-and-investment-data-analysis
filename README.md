@@ -50,11 +50,15 @@ The project begins by importing key Python libraries for data analysis, visualiz
 
 <img width="1087" alt="Screenshot 2025-06-09 at 10 43 01 AM" src="https://github.com/user-attachments/assets/0a004db2-b0fc-4a0f-94e4-e1291b3aa8e9" />
 
+---
 
 ## Data Loading
 The dataset is stored in CSV format in an Azure Data Lake container. Dataset is loaded using PySpark from Azure Data Lake Storage Gen2 via a securely configured Spark session. It contains key startup metrics such as investment, valuation, funding rounds, growth rate, and country information for analysis.
 
 <img width="997" alt="Screenshot 2025-06-09 at 10 49 48 AM" src="https://github.com/user-attachments/assets/c3d4f70b-73a8-4c12-be69-b0a4bf651c1f" />
+
+
+---
 
 ##  Data Cleaning & Transformation
 
@@ -62,6 +66,7 @@ The dataset is stored in CSV format in an Azure Data Lake container. Dataset is 
 
 <img width="959" alt="Screenshot 2025-06-09 at 11 09 03 AM" src="https://github.com/user-attachments/assets/98903ee9-5eac-4ffb-b6c4-841d9a854497" />
 
+---
 
 ## Exploratory Data Analysis
 
