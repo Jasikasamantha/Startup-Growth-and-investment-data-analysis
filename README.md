@@ -90,23 +90,33 @@ Insight: Australia, Brazil, and Singapore lead in startup count, showing strong 
    
 <img width="849" alt="Screenshot 2025-06-09 at 11 17 03 AM" src="https://github.com/user-attachments/assets/d197be0d-7d37-43d9-ae43-c4d96ec01ad9" />
 
-### Insights: Startup formation remained relatively steady from 2000 to 2023, with noticeable peaks in 2001, 2010, 2015, 2019, and 2021—indicating bursts of entrepreneurial activity, possibly influenced by favorable market conditions or technological advancements during those years.
+Insight: Startup formation remained relatively steady from 2000 to 2023, with noticeable peaks in 2001, 2010, 2015, 2019, and 2021—indicating bursts of entrepreneurial activity, possibly influenced by favorable market conditions or technological advancements during those years.
 
+---
+4. Top 10 Industries by Total Investment
+   
 <img width="912" alt="Screenshot 2025-06-09 at 11 12 28 AM" src="https://github.com/user-attachments/assets/dff0a69f-37c5-4947-ad94-f53dd0383ddf" />
 
 
 <img width="978" alt="Screenshot 2025-06-09 at 11 12 52 AM" src="https://github.com/user-attachments/assets/f149510d-b18a-487e-9afa-59934edb4382" />
 
-### Insight: The chart visualizes which industries have attracted the most capital. Sectors like FinTech, HealthTech, and EdTech often appear at the top, highlighting investor confidence and market demand.
+Insight: The chart visualizes which industries have attracted the most capital. Sectors like FinTech, HealthTech, and EdTech often appear at the top, highlighting investor confidence and market demand.
 
+---
+5. Startups Founded per Year
+   
 <img width="863" alt="Screenshot 2025-06-09 at 12 02 35 PM" src="https://github.com/user-attachments/assets/4b8bf2cb-38b7-427a-9045-808cb751f873" />
 
 <img width="915" alt="Screenshot 2025-06-09 at 12 02 57 PM" src="https://github.com/user-attachments/assets/e08577a1-0cb9-47dc-b6a9-6e45c7e729ab" />
 
 
 
-### Insight: There is a noticeable increase in startup formation between 2010 and 2020, peaking around 2016–2018. This indicates a global surge in entrepreneurial activity, possibly due to improved access to funding, accelerators, and tech ecosystems.
+Insight: There is a noticeable increase in startup formation between 2010 and 2020, peaking around 2016–2018. This indicates a global surge in entrepreneurial activity, possibly due to improved access to funding, accelerators, and tech ecosystems.
 
+---
+
+6. Correlation Between Investment & Valuation
+   
 <img width="842" alt="Screenshot 2025-06-09 at 11 25 59 AM" src="https://github.com/user-attachments/assets/c614481c-4f5b-468c-a973-b04349528733" />
 
 
@@ -114,18 +124,24 @@ Insight: Australia, Brazil, and Singapore lead in startup count, showing strong 
 
 
 
-### Insight: A strong positive correlation is observed — as investment increases, startup valuation tends to rise. This aligns with investor expectations that larger funding rounds typically back higher potential ventures.
+Insight: A strong positive correlation is observed — as investment increases, startup valuation tends to rise. This aligns with investor expectations that larger funding rounds typically back higher potential ventures.
 
+---
 
+7. Average Growth Rate by Country
+   
 <img width="959" alt="Screenshot 2025-06-09 at 11 28 22 AM" src="https://github.com/user-attachments/assets/a9cd2a67-4feb-45e5-83a0-c8d20fdb2b7e" />
 
 
 <img width="1003" alt="Screenshot 2025-06-09 at 11 29 59 AM" src="https://github.com/user-attachments/assets/ad146c32-3969-40ee-afc1-cff9b97c2dbf" />
 
 
-### Insight: Countries like Germany, USA, and Brazil show higher average startup growth rates, reflecting their thriving innovation ecosystems, government support, and growing market demand.
+Insight: Countries like Germany, USA, and Brazil show higher average startup growth rates, reflecting their thriving innovation ecosystems, government support, and growing market demand.
 
+---
 
+8. Startup Distribution by Top 5 Countries
+   
 <img width="873" alt="Screenshot 2025-06-09 at 11 33 53 AM" src="https://github.com/user-attachments/assets/61f54f2c-afdc-43ca-8486-31135741ad04" />
 
 
@@ -134,9 +150,12 @@ Insight: Australia, Brazil, and Singapore lead in startup count, showing strong 
 <img width="855" alt="Screenshot 2025-06-09 at 11 34 11 AM" src="https://github.com/user-attachments/assets/a17f11c4-f65a-428f-80d1-f0dfd5f9788d" />
 
 
-### Insighs: The USA, UK, Singapore, Brazil, and Australia represent the largest shares of startups in the dataset. These countries are likely hubs for startup development, supported by robust infrastructure and investor networks.
+Insighs: The USA, UK, Singapore, Brazil, and Australia represent the largest shares of startups in the dataset. These countries are likely hubs for startup development, supported by robust infrastructure and investor networks.
 
+---
 
+9. Valuation Distribution by Country
+    
 <img width="924" alt="Screenshot 2025-06-09 at 11 36 16 AM" src="https://github.com/user-attachments/assets/3bee1627-a160-44c1-bcc5-db92805b774b" />
 
 
@@ -144,8 +163,13 @@ Insight: Australia, Brazil, and Singapore lead in startup count, showing strong 
 
 
 
-### Insight: Valuation varies widely within and across countries. Countries like the UK, Singapore, Brazil, USA, and Australia exhibit higher median valuations and pronounced outliers, reflecting their dynamic startup ecosystems. These markets show strong potential for large-scale success and attract significant investor interest.
+Insight: Valuation varies widely within and across countries. Countries like the UK, Singapore, Brazil, USA, and Australia exhibit higher median valuations and pronounced outliers, reflecting their dynamic startup ecosystems. These markets show strong potential for large-scale success and attract significant investor interest.
 
+---
+
+10. Distribution of Funding Rounds by Industry
+
+    
 <img width="905" alt="Screenshot 2025-06-09 at 11 39 31 AM" src="https://github.com/user-attachments/assets/ff7f118c-1ce6-4b5b-868a-6ebcc2c5e99c" />
 
 
@@ -153,9 +177,11 @@ Insight: Australia, Brazil, and Singapore lead in startup count, showing strong 
 
 
 
-### Insight: Industries like Tech and Healthcare tend to have higher median and spread of funding rounds, indicating stronger investor interest and repeated fundraising cycles compared to other sectors.
+Insight: Industries like Tech and Healthcare tend to have higher median and spread of funding rounds, indicating stronger investor interest and repeated fundraising cycles compared to other sectors.
 
-
+---
+11. Valuation for Startups Founded in the Last 5 Years
+    
 <img width="929" alt="Screenshot 2025-06-09 at 11 42 58 AM" src="https://github.com/user-attachments/assets/fecbaf28-c10f-4107-8417-0793270bbe60" />
 
 
@@ -163,8 +189,11 @@ Insight: Australia, Brazil, and Singapore lead in startup count, showing strong 
 <img width="982" alt="Screenshot 2025-06-09 at 11 43 15 AM" src="https://github.com/user-attachments/assets/2b49d0af-ff6e-44dc-b7fc-95ecabfa22a9" />
 
 
-### Insight: Recent startups mostly have lower valuations, with a small number showing high valuation outliers. This indicates a challenging but promising environment for newcomers.
+Insight: Recent startups mostly have lower valuations, with a small number showing high valuation outliers. This indicates a challenging but promising environment for newcomers.
 
+---
+
+12.Investment Amount vs. Valuation by Industry
 
 <img width="925" alt="Screenshot 2025-06-09 at 11 48 27 AM" src="https://github.com/user-attachments/assets/2aef8b67-8c10-4a05-937f-fc11f7d5c44c" />
 
@@ -174,7 +203,7 @@ Insight: Australia, Brazil, and Singapore lead in startup count, showing strong 
 
 
 
-### Insight: Industries like Tech and Healthcare generally receive larger investments and achieve higher valuations, with multiple funding rounds indicating sustained investor interest.
+Insight: Industries like Tech and Healthcare generally receive larger investments and achieve higher valuations, with multiple funding rounds indicating sustained investor interest.
 
 
 ---
