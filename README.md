@@ -85,9 +85,9 @@ The dataset is stored in CSV format in an Azure Data Lake container. Dataset is 
 
 ### Insight: The chart visualizes which industries have attracted the most capital. Sectors like FinTech, HealthTech, and EdTech often appear at the top, highlighting investor confidence and market demand.
 
-<img width="935" alt="Screenshot 2025-06-09 at 11 18 40 AM" src="https://github.com/user-attachments/assets/1c483e3f-6a14-44dd-89ec-2003177d7235" />
+<img width="863" alt="Screenshot 2025-06-09 at 12 02 35 PM" src="https://github.com/user-attachments/assets/4b8bf2cb-38b7-427a-9045-808cb751f873" />
 
-<img width="971" alt="Screenshot 2025-06-09 at 11 19 00 AM" src="https://github.com/user-attachments/assets/23d5d678-e001-4dd6-af7b-58d155f943c1" />
+<img width="915" alt="Screenshot 2025-06-09 at 12 02 57 PM" src="https://github.com/user-attachments/assets/e08577a1-0cb9-47dc-b6a9-6e45c7e729ab" />
 
 
 
