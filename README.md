@@ -170,13 +170,15 @@ The dataset is stored in CSV format in an Azure Data Lake container. Dataset is 
 
 ### Insights: Top startups like Startup_229 and Startup_441 demonstrate high investment efficiency with valuation-to-investment ratios near 5, indicating they generate nearly five times the value for every dollar invested. This reflects strong financial performance and effective use of capital, making them standout examples of capital-efficient growth in the startup ecosystem.
 
+## Choropleth: Average Growth Rate by Country
 
 
+<img width="781" alt="Screenshot 2025-06-09 at 11 58 07 AM" src="https://github.com/user-attachments/assets/408c8844-de36-47a4-9d74-145bb5e45401" />
+
+<img width="919" alt="Screenshot 2025-06-09 at 11 59 05 AM" src="https://github.com/user-attachments/assets/6e334378-a697-44aa-ba1c-4bd325a5ed82" />
 
 
-
-
-
+### insights: This map shows how fast startups grow in each country. Darker shades mean higher growth. Countries like India, Singapore, and the UK stand out with strong startup growth, while lighter areas indicate slower growth. It gives a quick view of where startup ecosystems are thriving globally.
 
 
 # Project Title: Startup Growth & Investment Analysis Using Azure Synapse SQL
