@@ -73,12 +73,16 @@ The dataset is loaded using PySpark from Azure Data Lake Storage Gen2 via a secu
 
 ### Insights: Australia, Brazil, and Singapore lead in startup count, showing strong innovation ecosystems, while the UK and USA remain major global startup hubs.
 
+<img width="959" alt="Screenshot 2025-06-09 at 11 09 03 AM" src="https://github.com/user-attachments/assets/51f7c1e0-4e32-45f9-9477-8aa8b70ff70e" />
+
+### Insights: Startup formation remained relatively steady from 2000 to 2023, with noticeable peaks in 2001, 2010, 2015, 2019, and 2021—indicating bursts of entrepreneurial activity, possibly influenced by favorable market conditions or technological advancements during those years.
+
+<img width="912" alt="Screenshot 2025-06-09 at 11 12 28 AM" src="https://github.com/user-attachments/assets/dff0a69f-37c5-4947-ad94-f53dd0383ddf" />
 
 
+<img width="978" alt="Screenshot 2025-06-09 at 11 12 52 AM" src="https://github.com/user-attachments/assets/f149510d-b18a-487e-9afa-59934edb4382" />
 
-
-
-
+### Insight: The chart visualizes which industries have attracted the most capital. Sectors like FinTech, HealthTech, and EdTech often appear at the top, highlighting investor confidence and market demand.
 
 
 
