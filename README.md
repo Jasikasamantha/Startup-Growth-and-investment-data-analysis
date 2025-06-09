@@ -132,12 +132,14 @@ The dataset is stored in CSV format in an Azure Data Lake container. Dataset is 
 
 ### Insight: Valuation varies widely within and across countries. Countries like the UK, Singapore, Brazil, USA, and Australia exhibit higher median valuations and pronounced outliers, reflecting their dynamic startup ecosystems. These markets show strong potential for large-scale success and attract significant investor interest.
 
+<img width="905" alt="Screenshot 2025-06-09 at 11 39 31 AM" src="https://github.com/user-attachments/assets/ff7f118c-1ce6-4b5b-868a-6ebcc2c5e99c" />
+
+
+<img width="982" alt="Screenshot 2025-06-09 at 11 40 51 AM" src="https://github.com/user-attachments/assets/5df0305f-e27e-44f3-b44c-abd91ddd6620" />
 
 
 
-
-
-
+### Insight: Industries like Tech and Healthcare tend to have higher median and spread of funding rounds, indicating stronger investor interest and repeated fundraising cycles compared to other sectors.
 
 
 
