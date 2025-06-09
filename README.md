@@ -85,6 +85,23 @@ The dataset is loaded using PySpark from Azure Data Lake Storage Gen2 via a secu
 
 ### Insight: The chart visualizes which industries have attracted the most capital. Sectors like FinTech, HealthTech, and EdTech often appear at the top, highlighting investor confidence and market demand.
 
+<img width="935" alt="Screenshot 2025-06-09 at 11 18 40 AM" src="https://github.com/user-attachments/assets/1c483e3f-6a14-44dd-89ec-2003177d7235" />
+
+<img width="971" alt="Screenshot 2025-06-09 at 11 19 00 AM" src="https://github.com/user-attachments/assets/23d5d678-e001-4dd6-af7b-58d155f943c1" />
+
+
+
+### Insight: There is a noticeable increase in startup formation between 2010 and 2020, peaking around 2016–2018. This indicates a global surge in entrepreneurial activity, possibly due to improved access to funding, accelerators, and tech ecosystems.
+
+
+
+
+
+
+
+
+
+
 
 
 
