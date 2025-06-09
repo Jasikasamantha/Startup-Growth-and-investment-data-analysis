@@ -611,12 +611,64 @@ This project presents an end-to-end data analysis pipeline focused on startup gr
 
 ---
 
+### 4. Top 10 Industries by Total Investment (Bar Chart)
+
+- HealthTech and E-commerce receive the highest investments.
+
+- SaaS, Fintech, and Blockchain also attract significant capital.
+
+- There's a clear investor preference for tech-driven and scalable sectors.
+
+---
+
+### 5. Most Funded Startups by Country (Stacked Bar Chart)
+
+- Countries like the USA, China, and Australia house the most heavily funded startups.
+
+- Multiple startups from different countries reach funding levels above $20B, showcasing global innovation hotspots.
+
+- Startups are identified by ID (e.g., Startup_1015, Startup_1016), each contributing to their country's totals.
+
+---
+
+### 6. Valuation vs. Investment Scatter Plot
+   
+- A strong positive correlation between investment amount and startup valuation.
+
+- Heavily invested startups tend to reach valuations upwards of $20B, confirming the high ROI expectations from large investments.
+
+---
+
+### 7. Average Growth Rate by Industry (Bar Chart)
+- EdTech, Fintech, Blockchain industries top the list for average growth rate, scoring around 105.
+
+- Biotech and HealthTech are on the lower side (~98–101), potentially due to longer R&D cycles.
+
+---
+
+### 8. Top 10 Startups by Valuation (Table)
+
+- Highest valued startup: Startup_436 (Biotech) with ~$24.7B valuation.
+
+- Others include AI, Fintech, and E-commerce sectors, indicating cross-industry dominance.
+
+- Biotech appears multiple times, implying high investor confidence despite slower average growth.
 
 
+---
 
+### 9. Country-wise Startup Distribution (Donut Chart)
 
+- This reiterates the pie chart data, visualized as a donut.
 
+- Confirms the balanced global distribution of startup activity across major economies.
 
+---
+### 10. Country Filter (Slicer)
+
+- Allows selection/filtering by country (Australia, Canada, France, India, Brazil, China, etc.).
+
+- Empowers dynamic dashboard filtering, enabling country-specific insights in real-time.
 
 
 
