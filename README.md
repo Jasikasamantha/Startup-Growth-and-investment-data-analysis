@@ -1,12 +1,12 @@
 # Startup-Growth-and-investment-data-analysis
 
-# 🚀 Startup Growth & Investment Data Analysis (Azure + PySpark)
+#  Startup Growth & Investment Data Analysis (Azure + PySpark)
 
 This project analyzes a global startup dataset using **Azure Databricks** and **PySpark** to uncover trends in funding, valuation, investor activity, and growth rate. It also includes data visualizations and an optional ML-based prediction module.
 
 ---
 
-## 📌 Project Objectives
+##  Project Objectives
 
 - Analyze startup funding, valuation, and growth trends
 - Identify high-efficiency and high-growth startups
@@ -15,7 +15,7 @@ This project analyzes a global startup dataset using **Azure Databricks** and **
 
 ---
 
-## 📁 Dataset Overview
+##  Dataset Overview
 
 The dataset includes the following fields:
 
@@ -27,11 +27,11 @@ The dataset includes the following fields:
 - `Valuation_USD`
 - `Number_of_Investors`
 - `Year_Founded`
-- `Growth_Rate (%)`
+- `Growth_Rate `
 
 ---
 
-## ⚙️ Technologies Used
+##  Technologies Used
 
 | Component            | Description                                    |
 |---------------------|------------------------------------------------|
@@ -44,7 +44,21 @@ The dataset includes the following fields:
 ---
 
 
+## 🧪 Data Cleaning & Transformation
 
+```python
+from pyspark.sql.functions import col
+
+df = df.withColumnRenamed("Investment Amount (USD)", "Investment_Amount_USD") \
+       .withColumnRenamed("Valuation (USD)", "Valuation_USD") \
+       .withColumnRenamed("Growth Rate (%)", "Growth_Rate") \
+       .withColumnRenamed("Startup Name", "Startup_Name") \
+       .withColumnRenamed("Funding Rounds", "Funding_Rounds") \
+       .withColumnRenamed("Number of Investors", "Number_of_Investors") \
+       .withColumnRenamed("Year Founded", "Year_Founded")
+
+df_clean = df.dropna(subset=["Investment_Amount_USD", "Valuation_USD", "Growth_Rate"])
+df_clean = df_clean.filter(col("Investment_Amount_USD") > 0)
 
 
 
