@@ -569,7 +569,7 @@ This project successfully leveraged Azure Synapse SQL to perform a comprehensive
 
 ---
 
-# Power BI Project: Startup Investment and Growth Analytics
+# Startup Growth & Investment Analysis using Azure & Power BI
 
 Source: Azure Synapse SQL
 
