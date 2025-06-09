@@ -76,11 +76,15 @@ The dataset is stored in CSV format in an Azure Data Lake container. Dataset is 
 
  Insight: These industries received the most cumulative funding, indicating high investor confidence.
 
+---
+
 2. Country-wise Startup Count
    
 <img width="785" alt="Screenshot 2025-06-09 at 11 04 03 AM" src="https://github.com/user-attachments/assets/b602dc42-5fcf-4347-bff7-8b8de462b05f" />
 
 Insight: Australia, Brazil, and Singapore lead in startup count, showing strong innovation ecosystems, while the UK and USA remain major global startup hubs.
+
+---
 
 3. Yearly Startup Formation Trend
    
