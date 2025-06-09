@@ -52,7 +52,7 @@ The project begins by importing key Python libraries for data analysis, visualiz
 
 
 ## Data Loading
-The dataset is loaded using PySpark from Azure Data Lake Storage Gen2 via a securely configured Spark session. It contains key startup metrics such as investment, valuation, funding rounds, growth rate, and country information for analysis.
+The dataset is stored in CSV format in an Azure Data Lake container. Dataset is loaded using PySpark from Azure Data Lake Storage Gen2 via a securely configured Spark session. It contains key startup metrics such as investment, valuation, funding rounds, growth rate, and country information for analysis.
 
 <img width="997" alt="Screenshot 2025-06-09 at 10 49 48 AM" src="https://github.com/user-attachments/assets/c3d4f70b-73a8-4c12-be69-b0a4bf651c1f" />
 
@@ -92,6 +92,15 @@ The dataset is loaded using PySpark from Azure Data Lake Storage Gen2 via a secu
 
 
 ### Insight: There is a noticeable increase in startup formation between 2010 and 2020, peaking around 2016–2018. This indicates a global surge in entrepreneurial activity, possibly due to improved access to funding, accelerators, and tech ecosystems.
+
+<img width="842" alt="Screenshot 2025-06-09 at 11 25 59 AM" src="https://github.com/user-attachments/assets/c614481c-4f5b-468c-a973-b04349528733" />
+
+
+<img width="855" alt="Screenshot 2025-06-09 at 11 26 12 AM" src="https://github.com/user-attachments/assets/88b9cd02-f3e6-4504-b057-81978334c616" />
+
+
+
+### Insight: A strong positive correlation is observed — as investment increases, startup valuation tends to rise. This aligns with investor expectations that larger funding rounds typically back higher potential ventures.
 
 
 
