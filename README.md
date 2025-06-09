@@ -56,7 +56,11 @@ The dataset is loaded using PySpark from Azure Data Lake Storage Gen2 via a secu
 
 <img width="997" alt="Screenshot 2025-06-09 at 10 49 48 AM" src="https://github.com/user-attachments/assets/c3d4f70b-73a8-4c12-be69-b0a4bf651c1f" />
 
+##  Data Cleaning & Transformation
 
+
+
+<img width="994" alt="Screenshot 2025-06-09 at 10 55 45 AM" src="https://github.com/user-attachments/assets/b240007b-ace3-4a14-b738-2512e638a3e3" />
 
 
 
