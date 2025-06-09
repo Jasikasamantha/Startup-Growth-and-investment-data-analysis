@@ -1,5 +1,83 @@
 # Startup-Growth-and-investment-data-analysis
 
+# 🚀 Startup Growth & Investment Data Analysis (Azure + PySpark)
+
+This project analyzes a global startup dataset using **Azure Databricks** and **PySpark** to uncover trends in funding, valuation, investor activity, and growth rate. It also includes data visualizations and an optional ML-based prediction module.
+
+---
+
+## 📌 Project Objectives
+
+- Analyze startup funding, valuation, and growth trends
+- Identify high-efficiency and high-growth startups
+- Explore geographic patterns using choropleth maps
+- Build a feature-engineered dataset for ML modeling
+
+---
+
+## 📁 Dataset Overview
+
+The dataset includes the following fields:
+
+- `Startup_Name`
+- `Industry`
+- `Country`
+- `Funding_Rounds`
+- `Investment_Amount_USD`
+- `Valuation_USD`
+- `Number_of_Investors`
+- `Year_Founded`
+- `Growth_Rate (%)`
+
+---
+
+## ⚙️ Technologies Used
+
+| Component            | Description                                    |
+|---------------------|------------------------------------------------|
+| **Azure Databricks**| Distributed data processing and transformation |
+| **Azure Data Lake** | Raw and cleaned data storage                   |
+| **PySpark**         | Data wrangling, analysis, and ML pipeline      |
+| **Plotly / Seaborn**| Visualizations                                 |
+| **Matplotlib**      | Supplementary charts                           |
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 # Project Title: Startup Growth & Investment Analysis Using Azure Synapse SQL
 
