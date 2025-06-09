@@ -65,16 +65,9 @@ The dataset is loaded using PySpark from Azure Data Lake Storage Gen2 via a secu
 
 ## Exploratory Data Analysis
 
-
-
-
-
 <img width="890" alt="Screenshot 2025-06-09 at 11 01 37 AM" src="https://github.com/user-attachments/assets/e933bfd7-036d-4a85-b18c-e9253a12f4a1" />
 
-### Insight: These industries received the most cumulative funding, indicating high investor confidence.
-
-
-
+### Insights: These industries received the most cumulative funding, indicating high investor confidence.
 
 <img width="785" alt="Screenshot 2025-06-09 at 11 04 03 AM" src="https://github.com/user-attachments/assets/b602dc42-5fcf-4347-bff7-8b8de462b05f" />
 
