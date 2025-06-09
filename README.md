@@ -70,13 +70,17 @@ The dataset is stored in CSV format in an Azure Data Lake container. Dataset is 
 
 ## Exploratory Data Analysis
 
+1. Top 10 Industries by Total Investment
+   
 <img width="890" alt="Screenshot 2025-06-09 at 11 01 37 AM" src="https://github.com/user-attachments/assets/e933bfd7-036d-4a85-b18c-e9253a12f4a1" />
 
-### Insights: These industries received the most cumulative funding, indicating high investor confidence.
+### Insight: These industries received the most cumulative funding, indicating high investor confidence.
 
+2. Startups Founded per Year
+   
 <img width="785" alt="Screenshot 2025-06-09 at 11 04 03 AM" src="https://github.com/user-attachments/assets/b602dc42-5fcf-4347-bff7-8b8de462b05f" />
 
-### Insights: Australia, Brazil, and Singapore lead in startup count, showing strong innovation ecosystems, while the UK and USA remain major global startup hubs.
+### Insight: Australia, Brazil, and Singapore lead in startup count, showing strong innovation ecosystems, while the UK and USA remain major global startup hubs.
 
 
 <img width="849" alt="Screenshot 2025-06-09 at 11 17 03 AM" src="https://github.com/user-attachments/assets/d197be0d-7d37-43d9-ae43-c4d96ec01ad9" />
