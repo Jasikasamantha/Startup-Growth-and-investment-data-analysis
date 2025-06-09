@@ -376,7 +376,7 @@ This highlights emerging startups that are both young and fast-growing, making t
 
 ---
 
-### 6.Top 10 Startups by Valuation
+### 6. Top 10 Startups by Valuation
 
 <img width="640" alt="Screenshot 2025-06-03 at 11 17 48 PM" src="https://github.com/user-attachments/assets/99cd3638-5b46-48b6-84fa-fc021fbe4131" />
 
