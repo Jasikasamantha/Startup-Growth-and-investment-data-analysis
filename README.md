@@ -44,10 +44,12 @@ The dataset includes the following fields:
 ---
 
 
+## Configuration
+The project begins by importing key Python libraries for data analysis, visualization, and machine learning. It then sets up a Spark session on Azure Databricks, configured to securely access Azure Data Lake Storage Gen2 using OAuth 2.0 authentication. This enables seamless reading and processing of large-scale startup investment data directly from the cloud.
 
 
 
-
+<img width="1087" alt="Screenshot 2025-06-09 at 10 43 01 AM" src="https://github.com/user-attachments/assets/0a004db2-b0fc-4a0f-94e4-e1291b3aa8e9" />
 
 
 
