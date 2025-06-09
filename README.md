@@ -193,7 +193,7 @@ Insight: Recent startups mostly have lower valuations, with a small number showi
 
 ---
 
-12.Investment Amount vs. Valuation by Industry
+12. Investment Amount vs. Valuation by Industry
 
 <img width="925" alt="Screenshot 2025-06-09 at 11 48 27 AM" src="https://github.com/user-attachments/assets/2aef8b67-8c10-4a05-937f-fc11f7d5c44c" />
 
