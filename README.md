@@ -657,12 +657,14 @@ This project presents an end-to-end data analysis pipeline focused on startup gr
 
 ---
 
-### 9. Country-wise Startup Distribution (Donut Chart)
+### 9. Country-wise Investment Share (Donut Chart) 
 
-- This reiterates the pie chart data, visualized as a donut.
+- Displays each country’s share of total startup investment in USD.
 
-- Confirms the balanced global distribution of startup activity across major economies.
+- Highlights that USA, China, and Australia receive the highest funding.
 
+- Emphasizes capital distribution, not just startup count.
+  
 ---
 ### 10. Country Filter (Slicer)
 
@@ -671,10 +673,10 @@ This project presents an end-to-end data analysis pipeline focused on startup gr
 - Empowers dynamic dashboard filtering, enabling country-specific insights in real-time.
 
 
+--
 
 
-
-# Project Insights Summary:
+## Project Insights Summary:
 
 i. Fintech and AI are top-funded and fast-growing industries.
 
