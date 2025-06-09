@@ -162,7 +162,7 @@ The dataset is stored in CSV format in an Azure Data Lake container. Dataset is 
 
 ### Insight: Industries like Tech and Healthcare generally receive larger investments and achieve higher valuations, with multiple funding rounds indicating sustained investor interest.
 
-### Investment Efficiency Analysis
+## Investment Efficiency Analysis
 
 
 <img width="914" alt="Screenshot 2025-06-09 at 11 52 29 AM" src="https://github.com/user-attachments/assets/a3256642-a6b2-4471-805b-120a941ce993" />
