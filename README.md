@@ -256,7 +256,7 @@ iv. Top 5 countries by startup count: USA, India, UK, Germany, and Canada.
 v. The valuation-to-investment ratio reveals which startups are most efficient in turning funds into value.
 
 ---
-## Conclusion: 
+## Conclusion
 This analysis shows that startups grow faster when they get more investment, especially in industries like EdTech and SaaS. Some countries, like the USA, India, and Singapore, have many successful startups. Startups that use their funding well tend to have higher value. Overall, investing wisely helps startups grow and succeed.
 
 
@@ -316,7 +316,7 @@ SQL Access: Connected using Serverless SQL Pool.
 ![SQL script 1 (2)](https://github.com/user-attachments/assets/43d123e7-87d6-49e1-8628-0897063c3877)
 <img width="458" alt="Screenshot 2025-06-03 at 10 36 57 PM" src="https://github.com/user-attachments/assets/66f9627a-635b-4604-a09d-720e3c8cd28b" />
 
-Insight: These industries received the highest total investments, highlighting sectors with the strongest investor interest and highest growth potential.
+**Insight:** These industries received the highest total investments, highlighting sectors with the strongest investor interest and highest growth potential.
 
 ---
 
@@ -331,7 +331,7 @@ Insight: These industries received the highest total investments, highlighting s
 
 <img width="413" alt="Screenshot 2025-06-03 at 10 40 49 PM" src="https://github.com/user-attachments/assets/52c340d6-b9bb-4ee8-a74b-304a17cb5e73" />
 
-Insight: Industries with the highest average growth rate indicate strong business expansion and scalability potential, making them attractive for long-term investment.
+**Insight:** Industries with the highest average growth rate indicate strong business expansion and scalability potential, making them attractive for long-term investment.
 
 ---
 
@@ -343,7 +343,7 @@ Insight: Industries with the highest average growth rate indicate strong busines
 
 <img width="424" alt="Screenshot 2025-06-03 at 10 50 45 PM" src="https://github.com/user-attachments/assets/a30cd7a7-0d53-48d7-a5ca-6b96f92a1865" />
 
-Insight: Countries with the highest number of startups reflect vibrant entrepreneurial ecosystems, robust support infrastructure, and investor interest in innovation.
+**Insight:** Countries with the highest number of startups reflect vibrant entrepreneurial ecosystems, robust support infrastructure, and investor interest in innovation.
 
 ---
 
@@ -357,7 +357,7 @@ Insight: Countries with the highest number of startups reflect vibrant entrepren
 
 
 
-Insight: A Pearson correlation value close to +1 indicates a strong positive relationship — meaning higher investments are generally associated with higher startup valuations.
+**Insight:** A Pearson correlation value close to +1 indicates a strong positive relationship — meaning higher investments are generally associated with higher startup valuations.
 
 ---
 
@@ -371,7 +371,7 @@ Insight: A Pearson correlation value close to +1 indicates a strong positive rel
 
 <img width="947" alt="Screenshot 2025-06-03 at 11 13 16 PM" src="https://github.com/user-attachments/assets/97731793-04fd-4077-b55d-8541b6ef9db5" />
 
-Insight:
+**Insight:**
 This highlights emerging startups that are both young and fast-growing, making them attractive targets for investors and partnerships.
 
 ---
@@ -387,7 +387,7 @@ This highlights emerging startups that are both young and fast-growing, making t
 
 
 
-Insight:
+**Insight:**
 These are the most valuable startups in the dataset, often industry leaders or heavily backed by investors. Useful for spotting unicorns or market disruptors.
 
 ---
@@ -400,7 +400,7 @@ These are the most valuable startups in the dataset, often industry leaders or h
 
 <img width="624" alt="Screenshot 2025-06-03 at 11 25 38 PM" src="https://github.com/user-attachments/assets/1ee60b23-bd44-4cdf-ac41-6d375032bb9f" />
 
-Insight:
+**Insight:**
 Industries with a higher average number of investors tend to attract greater market attention and confidence, indicating strong funding interest and potential for innovation.
 
 ---
@@ -413,7 +413,7 @@ Industries with a higher average number of investors tend to attract greater mar
 
 <img width="829" alt="Screenshot 2025-06-03 at 11 29 45 PM" src="https://github.com/user-attachments/assets/e072384d-28c5-48bb-b8e0-e4765a8581e0" />
 
-Insight:
+**Insight:**
 This identifies the most rapidly expanding industry, helping stakeholders focus on high-growth sectors for strategic investments or business development.
 
 ---
@@ -430,7 +430,7 @@ This identifies the most rapidly expanding industry, helping stakeholders focus 
 
 <img width="974" alt="Screenshot 2025-06-03 at 11 32 25 PM" src="https://github.com/user-attachments/assets/33ec66b0-3e60-4d31-bc4f-3a141bbeae78" />
 
-Insight:
+**Insight:**
 This ratio shows how efficiently startups turn investment into valuation. A higher ratio indicates better capital efficiency, making these startups more attractive to investors.
 
 
@@ -448,7 +448,7 @@ This ratio shows how efficiently startups turn investment into valuation. A high
 
 ![Screenshot 2025-06-03 at 11 40 04 PM](https://github.com/user-attachments/assets/e9cd5af5-b071-43b6-996e-7130c07d49be)
 
-Insight:
+**Insight:**
 Industries with high total investment and strong average growth are seen as high-potential sectors. This helps identify where resources and funding are concentrated.
 
 ---
@@ -464,7 +464,7 @@ Industries with high total investment and strong average growth are seen as high
 
 <img width="603" alt="Screenshot 2025-06-03 at 11 45 53 PM" src="https://github.com/user-attachments/assets/6493e92e-4176-4524-98e1-285b65cfea44" />
 
-Insight:
+**Insight:**
 Reveals which industries are receiving the most funding, indicating investor confidence and sector popularity.
 
 ---
@@ -482,7 +482,7 @@ Reveals which industries are receiving the most funding, indicating investor con
 
 <img width="771" alt="Screenshot 2025-06-03 at 11 49 08 PM" src="https://github.com/user-attachments/assets/c42c5920-fad5-4ed0-b6ab-29007ba59688" />
 
-Insight:
+**Insight:**
 Highlights which countries foster the fastest-growing startups, useful for investors targeting high-growth regions.
 
 
@@ -500,7 +500,7 @@ Highlights which countries foster the fastest-growing startups, useful for inves
 <img width="916" alt="Screenshot 2025-06-03 at 11 54 09 PM" src="https://github.com/user-attachments/assets/9f33dbf2-0535-49f6-92c9-52ea71fd570e" />
 
 
-Insight:
+**Insight:**
 Identifies premium startups with strong backing and market valuation, suggesting high confidence from investors.
 
 ---
@@ -519,7 +519,7 @@ Identifies premium startups with strong backing and market valuation, suggesting
 
 <img width="668" alt="Screenshot 2025-06-04 at 12 00 46 AM" src="https://github.com/user-attachments/assets/d63c528a-fd32-402b-a027-6b0c9d774d6c" />
 
-Insight:
+**Insight:**
 Reveals leading startups in each country based on investment, providing a snapshot of regional startup champions.
 
 ---
@@ -539,13 +539,13 @@ Reveals leading startups in each country based on investment, providing a snapsh
 <img width="797" alt="Screenshot 2025-06-04 at 12 04 52 AM" src="https://github.com/user-attachments/assets/5a2b843f-734e-402b-ab6b-cad92b51f267" />
 
 
-Insight:
+**Insight:**
 Shows how startup formation has evolved over time, useful for analyzing growth momentum and economic influence.
 
 ---
 
 
-## Key Achievements:
+## Key Achievements
 
 i. Identified Top-Funded Industries: Technology and FinTech lead in total investment, indicating investor confidence and innovation trends.
 
@@ -558,14 +558,14 @@ iv. High-Growth Startups: Startups founded after 2015 with above-average growth 
 v. Startup Formation Trends: Startup activity peaked in recent years, signaling a dynamic and growing ecosystem.
 
 ---
-## Platform Benefit:
+## Platform Benefit
 
 Azure Synapse enabled seamless integration of big data with SQL analytics, offering scalable performance and real-time insights without moving data out of the lakehouse.
 
 
 ---
 
-## Conclusion:
+## Conclusion
 This project successfully leveraged Azure Synapse SQL to perform a comprehensive analysis of startup growth and investment data. Key business and investment insights were derived from querying a structured dataset stored in Azure, enabling data-driven decisions for investors, incubators, and stakeholders.
 
 ---
@@ -576,7 +576,7 @@ This project presents an end-to-end data analysis pipeline focused on startup gr
 
 ---
 
-## Visualizations:
+## Visualizations
 
 <img width="1082" alt="Screenshot 2025-06-09 at 3 49 53 PM" src="https://github.com/user-attachments/assets/8bfdaf71-8f22-4dc4-b39c-ac57b89e4e0c" />
 
