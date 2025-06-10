@@ -104,7 +104,7 @@ Insight: Startup formation remained relatively steady from 2000 to 2023, with no
 
 <img width="978" alt="Screenshot 2025-06-09 at 11 12 52 AM" src="https://github.com/user-attachments/assets/f149510d-b18a-487e-9afa-59934edb4382" />
 
-Insight: The chart visualizes which industries have attracted the most capital. Sectors like FinTech, HealthTech, and EdTech often appear at the top, highlighting investor confidence and market demand.
+Insight: The chart visualizes which industries have attracted the most capital. Sectors like  HealthTech, E-commerce and Saas often appear at the top, highlighting investor confidence and market demand.
 
 ---
 ### 5. Startups Founded per Year
