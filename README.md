@@ -86,7 +86,7 @@ The dataset is stored in CSV format in an Azure Data Lake container. Dataset is 
    
 <img width="785" alt="Screenshot 2025-06-09 at 11 04 03 AM" src="https://github.com/user-attachments/assets/b602dc42-5fcf-4347-bff7-8b8de462b05f" />
 
-Insight: Australia, Brazil, and Singapore lead in startup count, showing strong innovation ecosystems, while the UK and USA remain major global startup hubs.
+**Insight:** Australia, Brazil, and Singapore lead in startup count, showing strong innovation ecosystems, while the UK and USA remain major global startup hubs.
 
 ---
 
@@ -94,7 +94,7 @@ Insight: Australia, Brazil, and Singapore lead in startup count, showing strong 
    
 <img width="849" alt="Screenshot 2025-06-09 at 11 17 03 AM" src="https://github.com/user-attachments/assets/d197be0d-7d37-43d9-ae43-c4d96ec01ad9" />
 
-Insight: Startup formation remained relatively steady from 2000 to 2023, with noticeable peaks in 2001, 2010, 2015, 2019, and 2021—indicating bursts of entrepreneurial activity, possibly influenced by favorable market conditions or technological advancements during those years.
+**Insight:** Startup formation remained relatively steady from 2000 to 2023, with noticeable peaks in 2001, 2010, 2015, 2019, and 2021—indicating bursts of entrepreneurial activity, possibly influenced by favorable market conditions or technological advancements during those years.
 
 ---
 ### 4. Top 10 Industries by Total Investment
@@ -104,7 +104,7 @@ Insight: Startup formation remained relatively steady from 2000 to 2023, with no
 
 <img width="978" alt="Screenshot 2025-06-09 at 11 12 52 AM" src="https://github.com/user-attachments/assets/f149510d-b18a-487e-9afa-59934edb4382" />
 
-Insight: The chart visualizes which industries have attracted the most capital. Sectors like  HealthTech, E-commerce and Saas often appear at the top, highlighting investor confidence and market demand.
+**Insight:** The chart visualizes which industries have attracted the most capital. Sectors like  HealthTech, E-commerce and Saas often appear at the top, highlighting investor confidence and market demand.
 
 ---
 ### 5. Startups Founded per Year
@@ -115,7 +115,7 @@ Insight: The chart visualizes which industries have attracted the most capital. 
 
 
 
-Insight: There is a noticeable increase in startup formation between 2010 and 2020, peaking around 2016–2018. This indicates a global surge in entrepreneurial activity, possibly due to improved access to funding, accelerators, and tech ecosystems.
+**Insight:** There is a noticeable increase in startup formation between 2010 and 2020, peaking around 2016–2018. This indicates a global surge in entrepreneurial activity, possibly due to improved access to funding, accelerators, and tech ecosystems.
 
 ---
 
@@ -128,7 +128,7 @@ Insight: There is a noticeable increase in startup formation between 2010 and 20
 
 
 
-Insight: A strong positive correlation is observed — as investment increases, startup valuation tends to rise. This aligns with investor expectations that larger funding rounds typically back higher potential ventures.
+**Insight:** A strong positive correlation is observed — as investment increases, startup valuation tends to rise. This aligns with investor expectations that larger funding rounds typically back higher potential ventures.
 
 ---
 
@@ -140,7 +140,7 @@ Insight: A strong positive correlation is observed — as investment increases, 
 <img width="1003" alt="Screenshot 2025-06-09 at 11 29 59 AM" src="https://github.com/user-attachments/assets/ad146c32-3969-40ee-afc1-cff9b97c2dbf" />
 
 
-Insight: Countries like Germany, USA, and Brazil show higher average startup growth rates, reflecting their thriving innovation ecosystems, government support, and growing market demand.
+**Insight:** Countries like Germany, USA, and Brazil show higher average startup growth rates, reflecting their thriving innovation ecosystems, government support, and growing market demand.
 
 ---
 
@@ -154,7 +154,7 @@ Insight: Countries like Germany, USA, and Brazil show higher average startup gro
 <img width="855" alt="Screenshot 2025-06-09 at 11 34 11 AM" src="https://github.com/user-attachments/assets/a17f11c4-f65a-428f-80d1-f0dfd5f9788d" />
 
 
-Insighs: The USA, UK, Singapore, Brazil, and Australia represent the largest shares of startups in the dataset. These countries are likely hubs for startup development, supported by robust infrastructure and investor networks.
+**Insight:** The USA, UK, Singapore, Brazil, and Australia represent the largest shares of startups in the dataset. These countries are likely hubs for startup development, supported by robust infrastructure and investor networks.
 
 ---
 
@@ -167,7 +167,7 @@ Insighs: The USA, UK, Singapore, Brazil, and Australia represent the largest sha
 
 
 
-Insight: Valuation varies widely within and across countries. Countries like the UK, Singapore, Brazil, USA, and Australia exhibit higher median valuations and pronounced outliers, reflecting their dynamic startup ecosystems. These markets show strong potential for large-scale success and attract significant investor interest.
+**Insight:** Valuation varies widely within and across countries. Countries like the UK, Singapore, Brazil, USA, and Australia exhibit higher median valuations and pronounced outliers, reflecting their dynamic startup ecosystems. These markets show strong potential for large-scale success and attract significant investor interest.
 
 ---
 
@@ -181,7 +181,7 @@ Insight: Valuation varies widely within and across countries. Countries like the
 
 
 
-Insight: Industries like Tech and Healthcare tend to have higher median and spread of funding rounds, indicating stronger investor interest and repeated fundraising cycles compared to other sectors.
+**Insight:** Industries like Tech and Healthcare tend to have higher median and spread of funding rounds, indicating stronger investor interest and repeated fundraising cycles compared to other sectors.
 
 ---
 ### 11. Valuation for Startups Founded in the Last 5 Years
@@ -193,7 +193,7 @@ Insight: Industries like Tech and Healthcare tend to have higher median and spre
 <img width="982" alt="Screenshot 2025-06-09 at 11 43 15 AM" src="https://github.com/user-attachments/assets/2b49d0af-ff6e-44dc-b7fc-95ecabfa22a9" />
 
 
-Insight: Recent startups mostly have lower valuations, with a small number showing high valuation outliers. This indicates a challenging but promising environment for newcomers.
+**Insight:** Recent startups mostly have lower valuations, with a small number showing high valuation outliers. This indicates a challenging but promising environment for newcomers.
 
 ---
 
@@ -207,7 +207,7 @@ Insight: Recent startups mostly have lower valuations, with a small number showi
 
 
 
-Insight: Industries like Tech and Healthcare generally receive larger investments and achieve higher valuations, with multiple funding rounds indicating sustained investor interest.
+**Insight:** Industries like Tech and Healthcare generally receive larger investments and achieve higher valuations, with multiple funding rounds indicating sustained investor interest.
 
 
 ---
@@ -217,7 +217,7 @@ Insight: Industries like Tech and Healthcare generally receive larger investment
 <img width="914" alt="Screenshot 2025-06-09 at 11 52 29 AM" src="https://github.com/user-attachments/assets/a3256642-a6b2-4471-805b-120a941ce993" />
 
 
-Insights: Top startups like Startup_229 and Startup_441 demonstrate high investment efficiency with valuation-to-investment ratios near 5, indicating they generate nearly five times the value for every dollar invested. This reflects strong financial performance and effective use of capital, making them standout examples of capital-efficient growth in the startup ecosystem.
+**Insights:** Top startups like Startup_229 and Startup_441 demonstrate high investment efficiency with valuation-to-investment ratios near 5, indicating they generate nearly five times the value for every dollar invested. This reflects strong financial performance and effective use of capital, making them standout examples of capital-efficient growth in the startup ecosystem.
 
 ---
 
@@ -231,7 +231,7 @@ Insights: Top startups like Startup_229 and Startup_441 demonstrate high investm
 <img width="919" alt="Screenshot 2025-06-09 at 11 59 05 AM" src="https://github.com/user-attachments/assets/6e334378-a697-44aa-ba1c-4bd325a5ed82" />
 
 
-Insights: This map shows how fast startups grow in each country. Darker shades mean higher growth. Countries like India, Singapore, and the UK stand out with strong startup growth, while lighter areas indicate slower growth. It gives a quick view of where startup ecosystems are thriving globally.
+**Insights:** This map shows how fast startups grow in each country. Darker shades mean higher growth. Countries like India, Singapore, and the UK stand out with strong startup growth, while lighter areas indicate slower growth. It gives a quick view of where startup ecosystems are thriving globally.
 
 ---
 
@@ -240,7 +240,7 @@ Insights: This map shows how fast startups grow in each country. Darker shades m
 
 <img width="988" alt="Screenshot 2025-06-09 at 12 08 02 PM" src="https://github.com/user-attachments/assets/8ee75a54-10e1-4c57-9281-abc01fa24909" />
 
-Insights: Startups span diverse industries like Blockchain, SaaS, EdTech, and Fintech. EdTech startups (e.g., in Singapore and India) show exceptionally high growth rates (190.47 and 192.0). Investment and valuation figures vary widely, indicating diverse funding strategies. Countries like the UK, Singapore, and India feature prominently among high-growth startups. features_array successfully consolidates key numerical predictors for modeling growth.
+**Insights:** Startups span diverse industries like Blockchain, SaaS, EdTech, and Fintech. EdTech startups (e.g., in Singapore and India) show exceptionally high growth rates (190.47 and 192.0). Investment and valuation figures vary widely, indicating diverse funding strategies. Countries like the UK, Singapore, and India feature prominently among high-growth startups. features_array successfully consolidates key numerical predictors for modeling growth.
 
 ---
 ## Key Insights
